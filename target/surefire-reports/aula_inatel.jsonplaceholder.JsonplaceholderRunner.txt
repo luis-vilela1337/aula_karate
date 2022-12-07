@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: aula_inatel.jsonplaceholder.JsonplaceholderRunner
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.532 s - in aula_inatel.jsonplaceholder.JsonplaceholderRunner
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.589 s - in aula_inatel.jsonplaceholder.JsonplaceholderRunner

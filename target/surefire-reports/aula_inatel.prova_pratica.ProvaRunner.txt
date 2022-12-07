@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: aula_inatel.prova_pratica.ProvaRunner
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.168 s - in aula_inatel.prova_pratica.ProvaRunner

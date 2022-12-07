@@ -40,7 +40,14 @@ Feature: Testando API JSONplaceholder
     And match $.[0].website == "hildegard.org"
     And print response
 
-##
+  Scenario: Testando retorno  e check json
+    Given url url_base
+    And path "/albums"
+    When method get
+    Then status 200
+    And match $.[2].title == "omnis laborum odio"
+
+
 #  Scenario: Testando retorno com metodo post e verificando o json
 #    Given url url_base
 #    And path "posts/1"
