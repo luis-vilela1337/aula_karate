@@ -1649,3 +1649,2170 @@ Not Found
 2 < Server: cloudflare
 2 < CF-RAY: 775868423c9d1ac0-GRU
 {"iso639":"es","names":[{"name":"西語","language":{"name":"ja-Hrkt","url":"https:\/\/pokeapi.co\/api\/v2\/language\/1\/"}},{"name":"스페인어","language":{"name":"ko","url":"https:\/\/pokeapi.co\/api\/v2\/language\/3\/"}},{"name":"Espagnol","language":{"name":"fr","url":"https:\/\/pokeapi.co\/api\/v2\/language\/5\/"}},{"name":"Spanisch","language":{"name":"de","url":"https:\/\/pokeapi.co\/api\/v2\/language\/6\/"}},{"name":"Español","language":{"name":"es","url":"https:\/\/pokeapi.co\/api\/v2\/language\/7\/"}},{"name":"Spanish","language":{"name":"en","url":"https:\/\/pokeapi.co\/api\/v2\/language\/9\/"}}],"name":"es","official":true,"id":7,"iso3166":"es"}
+20:18:19.557 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:18:20.408 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:18:20.446 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request {"userId":1,"title:"foo", "body":"bar""}
+no step-definition method match found for: def post_request {"userId":1,"title:"foo", "body":"bar""}
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:18:20.470 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:18:20.473 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request {"userId":1,"title:"foo", "body":"bar""}
+no step-definition method match found for: def post_request {"userId":1,"title:"foo", "body":"bar""}
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:18:20.484 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:18:20.486 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request {"userId":1,"title:"foo", "body":"bar""}
+no step-definition method match found for: def post_request {"userId":1,"title:"foo", "body":"bar""}
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:18:20.499 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:18:20.502 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request {"userId":1,"title:"foo", "body":"bar""}
+no step-definition method match found for: def post_request {"userId":1,"title:"foo", "body":"bar""}
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:18:20.516 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:18:20.520 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request {"userId":1,"title:"foo", "body":"bar""}
+no step-definition method match found for: def post_request {"userId":1,"title:"foo", "body":"bar""}
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:19:11.559 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:19:12.474 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:19:12.515 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request {"userId":1,"title:"foo", "body":"bar"}
+no step-definition method match found for: def post_request {"userId":1,"title:"foo", "body":"bar"}
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:19:12.549 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:19:12.554 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request {"userId":1,"title:"foo", "body":"bar"}
+no step-definition method match found for: def post_request {"userId":1,"title:"foo", "body":"bar"}
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:19:12.569 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:19:12.576 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request {"userId":1,"title:"foo", "body":"bar"}
+no step-definition method match found for: def post_request {"userId":1,"title:"foo", "body":"bar"}
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:19:12.589 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:19:12.596 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request {"userId":1,"title:"foo", "body":"bar"}
+no step-definition method match found for: def post_request {"userId":1,"title:"foo", "body":"bar"}
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:19:12.610 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:19:12.618 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request {"userId":1,"title:"foo", "body":"bar"}
+no step-definition method match found for: def post_request {"userId":1,"title:"foo", "body":"bar"}
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:20:04.879 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:20:05.884 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:20:05.976 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request = {"userId":1,"title:"foo", "body":"bar"}
+net.minidev.json.parser.ParseException: Unexpected character (f) at position 19.
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:20:06.018 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:20:06.022 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request = {"userId":1,"title:"foo", "body":"bar"}
+net.minidev.json.parser.ParseException: Unexpected character (f) at position 19.
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:20:06.043 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:20:06.047 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request = {"userId":1,"title:"foo", "body":"bar"}
+net.minidev.json.parser.ParseException: Unexpected character (f) at position 19.
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:20:06.064 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:20:06.069 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request = {"userId":1,"title:"foo", "body":"bar"}
+net.minidev.json.parser.ParseException: Unexpected character (f) at position 19.
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:20:06.085 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:20:06.090 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request = {"userId":1,"title:"foo", "body":"bar"}
+net.minidev.json.parser.ParseException: Unexpected character (f) at position 19.
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:21:20.829 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:21:22.037 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:21:22.425 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:21:22.817 [main] DEBUG com.intuit.karate - response time in milliseconds: 358
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:21:22 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670266339
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"53-hfEnumeNh6YirfjyjaujcOPPT+s"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 16122
+1 < Server-Timing: cf-q-config;dur=9.0000012278324e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=uJCFO09ql7k5xhb1jx6NH%2BYYHWsBCkJCWY7kCUR7Szzpc3d0mol8Ac2AasmKPGF2YKYbJBYsUem2CpR5C4G2fKefE2bWnt2KRtlbaEAtJtMKfOOHx2yTSsi5p2w%2BkMTBmAOFzs1khrHZLbSqYHN4"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c1e8daaf0317-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"id":1,"completed":false,"title":"delectus aut autem","userId":1}
+20:21:22.850 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:11
+And match $.userId[0] == 1
+match failed: EQUALS
+  $ | actual path does not exist (STRING:NUMBER)
+  '#notpresent'
+  1
+
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:11
+20:21:22.883 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:21:22.892 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/3232
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:21:23.207 [main] DEBUG com.intuit.karate - response time in milliseconds: 315
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:21:22 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670368926
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: MISS
+1 < Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vkvqmKBNBiuZ97y3vhvP%2Bfqc%2BSQJ9CZjjXuRouhHlwsqu4LEU3QL3Q7cPsRHhbJ2Rn4Rswm%2FlqmOy4DqmJBRNtVEm2o%2B8K3fGruxxGMjkgAgTjfjkoBDdlc9HYpSDIlsym0flBZRI4t4uJyFqao4"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c1e9f947a4c3-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:21:23.222 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:21:23.227 [main] DEBUG com.intuit.karate - request:
+1 > DELETE https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:21:23.525 [main] DEBUG com.intuit.karate - response time in milliseconds: 297
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:21:22 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 998
+1 < X-Ratelimit-Reset: 1670368926
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=7.9999990703072e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FXBn34E%2BtkYEI3FZL7a%2FD%2F6nbKNMbJv4LgBSU5MqjqGukfV%2FKgXsUKx9YOFIyjpsoa4NGzhICvComlxRfkiu%2Bgs9zCbVOep4iF%2FTbG%2FUitEuCDBgKQl3N7PNKU7ho5fBTd6R%2F%2BP5azYW3hqv0UOQ"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c1ec09cca520-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:22:13.185 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:22:14.553 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:22:14.968 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:22:15.351 [main] DEBUG com.intuit.karate - response time in milliseconds: 333
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:22:14 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670266339
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"53-hfEnumeNh6YirfjyjaujcOPPT+s"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 16174
+1 < Server-Timing: cf-q-config;dur=6.9999987317715e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6243uJ6WWE7Qf5L%2B3SBSQhCmhivDUJljZ2qLXVEQ2xm0YTq4psV%2FfSxjnwIYvf1%2FiUR2Fc0nKMeokHXKNc8PCARRfFrShAttBIVHqlui5AbS3D0XxR7nHIGQmkjWkHIeXPYRv4xhv4qpffMFAzmU"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c330f87f01a1-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"id":1,"completed":false,"title":"delectus aut autem","userId":1}
+20:22:15.396 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:11
+And match $.userId[0] == "1"
+match failed: EQUALS
+  $ | actual path does not exist (STRING:STRING)
+  '#notpresent'
+  '1'
+
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:11
+20:22:15.439 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:22:15.450 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/3232
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:22:15.531 [main] DEBUG com.intuit.karate - response time in milliseconds: 80
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:22:14 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670368926
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 52
+1 < Server-Timing: cf-q-config;dur=8.999999408843e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=jsyFu4kOiQXiHb90jo%2FoMu0pKKn2PXJMTSxotlFkAVPVnmcoQS1TSomvKd6EWkUiD1xU3g3ZiidX%2B3xdfou4B9yd%2FI2TMAvQWyv5LCKWhF%2Fxlq3n8h03rhc6j3Rfr4bHATrjqGFy6SOOfaojq49T"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c3328f5da4f9-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:22:15.550 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:22:15.556 [main] DEBUG com.intuit.karate - request:
+1 > DELETE https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:22:15.853 [main] DEBUG com.intuit.karate - response time in milliseconds: 296
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:22:15 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670368986
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Rr6F0YzJ9BDX%2BM%2BONL8q0f%2B%2FjHgcu8wY4ObqgXF554Lu8%2BbpsThz6XDq%2F%2FEuss6TzQQgjt%2FxtwEcvqco9w9xmwe1ftfdSNP2pGpt3K2%2FF0qX25CvtC7swXuA0akn3hhXcqiEATYEduTd1X90Xn1s"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c33329061acb-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:24:11.776 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:24:12.994 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:24:13.389 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:24:13.928 [main] DEBUG com.intuit.karate - response time in milliseconds: 508
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:24:13 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670266339
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"53-hfEnumeNh6YirfjyjaujcOPPT+s"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 16293
+1 < Server-Timing: cf-q-config;dur=3.9999995351536e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DADma05OD8p9tD1vfNkRE9D1Ny622DwsPVzlwLJFC2vz1LnPcQV6GhBK4QNtq6bb8VtNbjLxSKcGrxQoV8EPJMenhNh5WVfs83ajbb5Ltd4hHgpn7%2BQmXuxrjYvdUko9ECmOL6g9XnoUAf2zXTZh"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c61658aba4c3-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"id":1,"completed":false,"title":"delectus aut autem","userId":1}
+20:24:13.950 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:11
+And print $.userId[0] == "1"
+>>>> js failed:
+01: karate.log('[print]',$.userId[0] == "1")
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "$" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:11
+20:24:13.978 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:24:13.985 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/3232
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:24:14.288 [main] DEBUG com.intuit.karate - response time in milliseconds: 303
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:24:13 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670369106
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: MISS
+1 < Server-Timing: cf-q-config;dur=7.0000005507609e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=o85zVKTtj7e9LL7EE%2B6Rh0nr4YI9sTonxcBOP0D18l3JtdxGpqT%2BbkuyZ3We9ASoJegXIrI3ixZbTMua9h1XKKq8tD7P9EAFdBfaUAMFH3k9mRataWDjdxqJ8OYOqbG7YYfXZqWj7OABE7dWo6J7"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c6175b03012a-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:24:14.306 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:24:14.311 [main] DEBUG com.intuit.karate - request:
+1 > DELETE https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:24:14.615 [main] DEBUG com.intuit.karate - response time in milliseconds: 304
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:24:13 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 998
+1 < X-Ratelimit-Reset: 1670369106
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=eXPUtZrfsRKrZCnMIfwk2jRlDYLVJ%2BCcf9X9yqOWzV0vUpXPohP4y%2FZidx1oiss9oc0rFF29nDDlDyQE94HjaxxDEOJhnC%2Btn453m1nHqNf1767yZrxusCNTF%2FT4eie6Vd476FG1dK82Deqg%2B0cR"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c6196b4ea535-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:25:04.681 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:25:06.865 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:25:07.477 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:25:07.816 [main] DEBUG com.intuit.karate - response time in milliseconds: 308
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:25:07 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670266339
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"53-hfEnumeNh6YirfjyjaujcOPPT+s"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 16347
+1 < Server-Timing: cf-q-config;dur=4.9999998736894e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=s1XBdNeXiUmd6ZkUeuoKeRRIsTlOJY8yY5bN14z3DbckGXagApJwx6sv4wR4%2BV8BhKpfx%2BTNdIL9OzpK3LiHsjkHn%2F4xmN6ivrRNSg9E48Iy%2BxqCrlX7%2FqD4mJeiKotxS9xDqwu2rG%2F6nIqv2uvZ"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c7671c11a4fc-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"id":1,"completed":false,"title":"delectus aut autem","userId":1}
+20:25:07.838 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:11
+And print $.userId[0]
+>>>> js failed:
+01: karate.log('[print]',$.userId[0])
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "$" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:11
+20:25:07.872 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:25:07.877 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/3232
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:25:08.185 [main] DEBUG com.intuit.karate - response time in milliseconds: 307
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:25:07 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670369166
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: MISS
+1 < Server-Timing: cf-q-config;dur=7.9999990703072e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ujnHYVkHLkIppvXwo9Zju66IDZwaUQsV00dJP%2BQK2bIJmnAwYtDFBed%2BoBuU7c%2FzZAI%2FrC%2BT2mL93FixcSju45SENzEtpSUp3hJqN6zQC74tAvNQxFg0Tqo4cbIIdoHoM2yhjJARt%2BQuJ4iC06zl"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c7682ff5a622-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:25:08.205 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:25:08.210 [main] DEBUG com.intuit.karate - request:
+1 > DELETE https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:25:08.808 [main] DEBUG com.intuit.karate - response time in milliseconds: 596
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:25:07 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 998
+1 < X-Ratelimit-Reset: 1670369166
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=4.9999998736894e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Y3WpMom3HSimDpxj74x8FhUYmI%2FzODkZfvWHdzwgZglJ5ZATF4%2FRhSbN5WrxotaYpz%2FofNrZ9HZVlrF3U0ZZofLaNy5TBlnEnqWinYB8nRgCvhveq%2BeoM6TyArHLhBDfwhqyv3kQiaVHPCeOapbe"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c76a382ba525-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:26:42.631 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:26:43.805 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:26:44.164 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:26:44.481 [main] DEBUG com.intuit.karate - response time in milliseconds: 286
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:26:43 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670266339
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"53-hfEnumeNh6YirfjyjaujcOPPT+s"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 16443
+1 < Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2m%2B%2B%2FxLu1I1%2B57lMVF1QFsf%2FlSS0TtAPdqdAKl%2BXS1VVg5BjLUbhijlxYXNksPjHIM4mIbiu71zit%2FliEcCf%2BxyL8BjAkEgpC4ENvdz7kviAV07BPAduZfObCC48KSy1bqad7xtVNweeiC6m2dek"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c9c34cf5a4f3-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"id":1,"completed":false,"title":"delectus aut autem","userId":1}
+20:26:44.510 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:11
+And def batata =  print response
+>>>> js failed:
+01: print response
+<<<<
+org.graalvm.polyglot.PolyglotException: SyntaxError: Unnamed:1:6 Expected ; but found response
+print response
+      ^
+
+- org.graalvm.polyglot.Context.eval(Context.java:373)
+- com.intuit.karate.graal.JsEngine.evalForValue(JsEngine.java:124)
+- com.intuit.karate.graal.JsEngine.eval(JsEngine.java:120)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1246)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2202)
+- com.intuit.karate.core.ScenarioEngine.evalAndCastTo(ScenarioEngine.java:1336)
+- com.intuit.karate.core.ScenarioEngine.assign(ScenarioEngine.java:1369)
+
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:11
+20:26:44.552 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:26:44.561 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/3232
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:26:44.629 [main] DEBUG com.intuit.karate - response time in milliseconds: 68
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:26:43 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670368926
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 321
+1 < Server-Timing: cf-q-config;dur=7.0000005507609e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=AWQZ0PwS%2FCXfR7vZp5XS%2FO22P6iXp2HXvtSfgTjSzxmaAjLr%2BWuy7yJTSIotXRGnwHSoVPh5Aa3cTnuwW547bUzqqOVU%2BtccVUP%2FBzLkUjj4iBrmocSrB9kcwr9C8PQWRTwygNsvoxLgLuMKiBVU"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c9c47b3702f6-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:26:44.650 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:26:44.660 [main] DEBUG com.intuit.karate - request:
+1 > DELETE https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:26:44.965 [main] DEBUG com.intuit.karate - response time in milliseconds: 304
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:26:44 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670369226
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=4.9999998736894e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ZLKFyewlgnipgcyEnuQFq9DwBxFxrldEWj6FG3L%2BvyssXpSQt5kkxM2JRb%2BwVPCPjvqWzo5%2BRXp2bkctASkrmU%2FNLAaIpj8n0Y2qUuvXT%2Bh5zI0M3ibJ2yj0fCEe6qPUIEV95f%2B2rWbfYHRG7BhA"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758c9c50c4f010a-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:27:50.127 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:27:51.214 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:27:51.676 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:27:52.007 [main] DEBUG com.intuit.karate - response time in milliseconds: 300
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:27:51 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670324383
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"53-hfEnumeNh6YirfjyjaujcOPPT+s"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 16093
+1 < Server-Timing: cf-q-config;dur=3.9999995351536e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DUspntkIYHpj4YT%2BQq%2BMo1rmYBfBTHftsAAUk%2BT%2BL5fOgrShMzw1LAqEEZi3o6ItXRfTosxHopn8DvpFTmlzX1BkJA13JqyNvI5d69ggBNJPcS7Ii76lALcjNN6a6ADYxyknipuHOiFcsmntSIW7"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758cb69495d00c5-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"id":1,"completed":false,"title":"delectus aut autem","userId":1}
+20:27:52.019 [main] INFO  com.intuit.karate - [print] {
+  "id": 1,
+  "completed": false,
+  "title": "delectus aut autem",
+  "userId": 1
+}
+ 
+20:27:52.044 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:27:52.050 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/3232
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:27:52.119 [main] DEBUG com.intuit.karate - response time in milliseconds: 67
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:27:51 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670368926
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 389
+1 < Server-Timing: cf-q-config;dur=8.0000008892966e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3SbmyMx437Ftntp0d0zIcFbsJdcvIOFtnvHeowJhaz2blQO6rR0YN%2BIGSDlSUCW2jkojtqZF31%2BmLQVWPtom5D%2FHzEUAvDbS8K0QoBK6VhxbV1IbRyU6xK4O98HngJLqzRimqmvkLnCuERn%2BE%2B0q"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758cb6a4dc901a1-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:27:52.136 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:27:52.142 [main] DEBUG com.intuit.karate - request:
+1 > DELETE https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:27:52.442 [main] DEBUG com.intuit.karate - response time in milliseconds: 300
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:27:51 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670369286
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=8.0000008892966e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Xgn8KQ2hescxz%2B1I3oJCHtjpra5Zt77%2FoGCyrV3ehiECLGbhwD1QNRExHPEITVNxDjiR5jY3HdrMHmM2Z3TQyj%2BrNcRxaxWpB9ZRZkehV%2FWc4g74%2B0FUF0xFjAx8NTLCW0khgblh%2Fex%2BRt3vp61n"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758cb6aca45a682-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:29:07.851 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:29:08.920 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:29:09.335 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:29:09.666 [main] DEBUG com.intuit.karate - response time in milliseconds: 298
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:29:08 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670324383
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"53-hfEnumeNh6YirfjyjaujcOPPT+s"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 16170
+1 < Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=v90ZJJxaDUNUnl%2Bj213NQqnIv2HxMRHa8sKSQpkmr8luDnoWLppeK4CO3bRK3%2F33sqG2t4%2B8k%2BybUcPX4%2FJh2tqW6by2LOIXYum2ib2zvRi9%2BMWH3rihgL5ooZ4Uqn8jEh3pyrM4OM%2BDqOVXoSOY"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758cd4eabf36b08-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"id":1,"completed":false,"title":"delectus aut autem","userId":1}
+20:29:09.682 [main] INFO  com.intuit.karate - [print] {
+  "id": 1,
+  "completed": false,
+  "title": "delectus aut autem",
+  "userId": 1
+}
+ 
+20:29:09.739 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:29:09.747 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/3232
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:29:10.049 [main] DEBUG com.intuit.karate - response time in milliseconds: 301
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:29:09 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670369406
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: MISS
+1 < Server-Timing: cf-q-config;dur=9.0000012278324e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=hW6lrGmG%2F6TXp7Arfg8e220s5t%2BpkhjrWE4wh3dEETMJoW177sGUntHC7D04mqyjm3XmingdwRuzManylvxZdWx8e8xFI3Zr15obf8gdz15wOLATsqur2bq3l0DZpsWdVsmyWhY8YSr2U2gtQEIA"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758cd4fda2f1ab2-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:29:10.061 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:29:10.068 [main] DEBUG com.intuit.karate - request:
+1 > DELETE https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:29:10.365 [main] DEBUG com.intuit.karate - response time in milliseconds: 296
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:29:09 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 998
+1 < X-Ratelimit-Reset: 1670369406
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Jlg6JusHF55eJmEZhGDCJN4pMjwzWKiZKTuxF9Jvmm3wdVTrpXJRr4XYEpm4wmMRy4JSF0Su3SiIiLDofUabt8lsQ3CpEZltUGv%2FjS7QrvIfOybA0k0zErj7KwVVXq7bTpMPDXTBaYKNtUc%2FmwMh"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758cd51cbc302fa-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:30:27.557 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:30:29.543 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:30:29.645 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request = {"userId":1,"title:"foo", "body":"bar"}
+net.minidev.json.parser.ParseException: Unexpected character (f) at position 19.
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:30:29.690 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:30:29.695 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request = {"userId":1,"title:"foo", "body":"bar"}
+net.minidev.json.parser.ParseException: Unexpected character (f) at position 19.
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:30:29.724 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:30:29.731 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request = {"userId":1,"title:"foo", "body":"bar"}
+net.minidev.json.parser.ParseException: Unexpected character (f) at position 19.
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:30:29.758 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:30:29.769 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+* def post_request = {"userId":1,"title:"foo", "body":"bar"}
+net.minidev.json.parser.ParseException: Unexpected character (f) at position 19.
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:4
+20:32:17.517 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:32:18.897 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:32:19.379 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:32:19.815 [main] DEBUG com.intuit.karate - response time in milliseconds: 423
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:32:19 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670309479
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"53-hfEnumeNh6YirfjyjaujcOPPT+s"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 2390
+1 < Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FCjw3yWjnzjCxafnIJZhTpm%2Bk2F2%2FGngtgbSXmpTZ%2FwuJ%2BFE0NQTaXlxiLXhzo3eR7WrhDuRpP0jIulAxvkI044wKQIa4Q37tEJ1ZL%2Fasq1%2F5Kfi9ZDOeJfk%2BhNEmQt1hjf3F764fGs%2BRv7Kj8qz"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d1f32a021a9a-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"id":1,"completed":false,"title":"delectus aut autem","userId":1}
+20:32:19.835 [main] INFO  com.intuit.karate - [print] {
+  "id": 1,
+  "completed": false,
+  "title": "delectus aut autem",
+  "userId": 1
+}
+ 
+20:32:19.865 [main] INFO  com.intuit.karate - [print] {
+  "name": "name_001",
+  "salary": "53001",
+  "age": "23"
+}
+ 
+20:32:19.899 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:32:19.909 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/3232
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:32:19.987 [main] DEBUG com.intuit.karate - response time in milliseconds: 76
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:32:19 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670369406
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 190
+1 < Server-Timing: cf-q-config;dur=7.0000005507609e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=nGqDU3wp%2FwZyvjozlYFG8EVQ7J8NLfRRBJ3BH6LzAmJTeolJCMbM7rxr3HCupujp8GKdTAWJpgvqMtpK8Zmh%2B8dLaLRt76%2FMkQW%2F8iNd9FIAEzxlA2z7obItvbOderx61lYwgLvZ0Q%2FnQPtgQVZB"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d1f468631ac3-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:32:20.011 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:32:20.020 [main] DEBUG com.intuit.karate - request:
+1 > DELETE https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:32:20.343 [main] DEBUG com.intuit.karate - response time in milliseconds: 321
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:32:19 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670369586
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=5.9999983932357e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=v2jBk2UGQHvY1%2BMalsXEuEeUFcKWol%2Fr0Pu5IjqJX2DoGLOjiqLyCvTRKX3Ynzw9F%2FbFD3LemrYSYhe6gMopRXkMTAWtF5ESOgwL0Zk1KEptA%2B0FhZ%2Fu4zfu91B90VteNKTl5fPY%2FHdYywz9gkqD"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d1f51cdc0126-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:33:07.524 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:33:08.712 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:33:09.148 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:33:10.386 [main] DEBUG com.intuit.karate - response time in milliseconds: 1232
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:33:09 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670324383
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"53-hfEnumeNh6YirfjyjaujcOPPT+s"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 16411
+1 < Server-Timing: cf-q-config;dur=7.0000005507609e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Rtpxf8ChhSLhNg9AO8Gp6Tzzv8zCVvLSV8Blm0Lx8ddc02isESLnN8m7j7CZ%2FmhBluTTtqEhLaDd63grbYHyaighUG10wdfj7TFzP4FgSsBq94TKHMNrOqP6wiWEJvWj%2F0l6LgN%2BJ%2FGlC4KV%2FUa%2F"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d32f5ed800ff-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"id":1,"completed":false,"title":"delectus aut autem","userId":1}
+20:33:10.397 [main] INFO  com.intuit.karate - [print] {
+  "id": 1,
+  "completed": false,
+  "title": "delectus aut autem",
+  "userId": 1
+}
+ 
+20:33:10.409 [main] INFO  com.intuit.karate - [print] {
+  "userId": 1,
+  "title": "foo",
+  "body": "bar"
+}
+ 
+20:33:10.427 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:33:10.434 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/3232
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:33:10.500 [main] DEBUG com.intuit.karate - response time in milliseconds: 65
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:33:09 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670368926
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 707
+1 < Server-Timing: cf-q-config;dur=7.0000005507609e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=GDxD02TeNsQvcEutIxajdVlUvOQbKXPgYJPeddcbcs6HMdC8X13PadUkC1OSO6kPN532dWDdOFJAiu39W22rJCDJ7nqz3whBepI66iOjWiicQulxYPO736rH1U91D99Boin3YVN7nQnShFLFvdlD"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d33019fa0303-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:33:10.510 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:33:10.517 [main] DEBUG com.intuit.karate - request:
+1 > DELETE https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:33:10.815 [main] DEBUG com.intuit.karate - response time in milliseconds: 297
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:33:10 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670369646
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=RGyqCbAjiIqH%2FnpVc6S7%2B5jwYI28UQyx6ggylhNwHHG0p8Vg%2BPHY%2FURn6BypC48PQRTOoqI7WxaHy3owLIBwe8zlbLfzHEPggPTUVGl0h5WvHTDcQmK55ckOgU4%2FHGAEYh%2FCpI%2B7auQQtqne0RwF"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d33098a20304-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:34:10.495 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:34:11.879 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:34:12.363 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:34:12.710 [main] DEBUG com.intuit.karate - response time in milliseconds: 338
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:34:11 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670266339
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"53-hfEnumeNh6YirfjyjaujcOPPT+s"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 16891
+1 < Server-Timing: cf-q-config;dur=3.0000010156073e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8D1Wl%2FCXR2FQ6VsjHtuD%2BZEPMg%2FLiEo8LlogqRfLKyE0UErLm7t1kWOqZZE0%2Bwby8UIYdIX1v3GtHGvZJBElZkOnqJzGmyD%2BsAZjMCF%2BGMz0amgBCsEeM31rHnrU1V6CJGYbZ4bAJIe3UCim1S09"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d4b4bae602fb-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"id":1,"completed":false,"title":"delectus aut autem","userId":1}
+20:34:12.726 [main] INFO  com.intuit.karate - [print] {
+  "id": 1,
+  "completed": false,
+  "title": "delectus aut autem",
+  "userId": 1
+}
+ 
+20:34:12.765 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:13
+And print aaaaa
+>>>> js failed:
+01: karate.log('[print]',aaaaa)
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "aaaaa" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:13
+20:34:12.817 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:34:12.824 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/3232
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:34:12.905 [main] DEBUG com.intuit.karate - response time in milliseconds: 79
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:34:12 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670368926
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 770
+1 < Server-Timing: cf-q-config;dur=5.9999983932357e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pNsNVNLVpHPMbDv5duUvT9eJ9akDucFC%2FfQaxAk6znj5XU971HLyC6RQ5%2BqBZtbzMjRLanHg9pgkSqJ6%2Bzkh1%2BP2zZ8XmPj4kufUyG%2Fsr3RQjEunVg5F6dRUjLYEIsxcz7d8dxv3w0ooC7oqdwoD"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d4b61a81a538-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:34:12.937 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:34:12.947 [main] DEBUG com.intuit.karate - request:
+1 > DELETE https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:34:13.256 [main] DEBUG com.intuit.karate - response time in milliseconds: 306
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:34:12 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670369706
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=2.9999991966179e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lbqRi2xWcOhKw%2FXvkkQNKF2qo9elfYnAoEpxVDyOTYH6FqqEYZdksEJkNzLsIcH6MxMa5yj%2FDLW0HuI9JTDGLmPJ8M9fEuamK64B%2BpEGiHgLmrT8Yylj67dwYwgiKLY88SDWYJ%2BK%2BmjkgWgUK3U0"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d4b6ca54031b-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:34:13.272 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:34:13.329 [main] DEBUG com.intuit.karate - request:
+1 > POST https://jsonplaceholder.typicode.com/posts/1
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 39
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+{"title":"foo","body":"bar","userId":1}
+
+20:34:13.633 [main] DEBUG com.intuit.karate - response time in milliseconds: 303
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:34:12 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 998
+1 < X-Ratelimit-Reset: 1670369706
+1 < Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=7.0000005507609e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0zKfLQb2hfgJj4Gs2VZ%2BHqfucxy5DP71bkqFBaYINm8C4lieN5oThrN5nE95k9x0zQnFalwMCVgt1noBOPYKczZLWkRALeqwdnrPQrvPPYUKFt37FlkoeKegIPEP7D%2BXoHv%2Fx7zCWk5mfnqzax4d"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d4b91a344d0f-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:34:13.635 [main] ERROR com.intuit.karate - classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:33
+Then status 200
+status code was: 404, expected: 200, response time in milliseconds: 303, url: https://jsonplaceholder.typicode.com/posts/1, response: 
+{}
+classpath:aula_inatel/jsonplaceholder/jsonplaceholder.feature:33
+20:36:55.481 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:36:57.122 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:36:57.742 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:36:58.182 [main] DEBUG com.intuit.karate - response time in milliseconds: 430
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:36:57 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670309479
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"53-hfEnumeNh6YirfjyjaujcOPPT+s"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 2668
+1 < Server-Timing: cf-q-config;dur=7.9999990703072e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FtMsW9A3IeebDjKj20kXO9AFtXoitvpz0Rpx0crOK5cHklWHsU1%2FzSCd%2FlMqol7bFN9ywaZ2isPP9uDo%2B64Ukn0EkYFTzCH%2BDdARxWALejzTxYfUEJa%2F9u17LUIV%2BwOaJ4RrdjCPt3hTuOQTfOvw"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d8bf0bf01ab3-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"id":1,"completed":false,"title":"delectus aut autem","userId":1}
+20:36:58.196 [main] INFO  com.intuit.karate - [print] {
+  "id": 1,
+  "completed": false,
+  "title": "delectus aut autem",
+  "userId": 1
+}
+ 
+20:36:58.239 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:36:58.247 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/3232
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:36:58.317 [main] DEBUG com.intuit.karate - response time in milliseconds: 69
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:36:57 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670368926
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 935
+1 < Server-Timing: cf-q-config;dur=5.9999983932357e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=cbGczqe509Ebg%2FGGYRP0wqO%2FiJcg0ZPbw%2F4W9a1clWi4ErQh7gw8%2FpMmcYXH3Ufq%2FC8lYy4hwkcFscG0AykP6mQm2Hb0elv1WTXJUb10SodA%2Fupuz9Re1BaSmq7i6mDv7hA89rcek%2Fx1fkQMfycp"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d8bffd37a538-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:36:58.333 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:36:58.392 [main] DEBUG com.intuit.karate - request:
+1 > POST https://jsonplaceholder.typicode.com/posts/1
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 39
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+{"title":"foo","body":"bar","userId":1}
+
+20:36:58.917 [main] DEBUG com.intuit.karate - response time in milliseconds: 525
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:36:58 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670369826
+1 < Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1LCKoA7h%2FYTpns%2F1ArB1DrdiuqjQHiY8Tr2AZuSOduZwy7PyHsdId%2FaHBci4qPo4nHUHlaOiimZSg28ziB9ehS77YfgDbmJXR%2BLTog3x2jbb2oUcXeu4Fy1dEpusfJiruAJs03GzjzTyAhn4%2Fh6Y"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d8c23cc801ac-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:36:58.931 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:36:58.936 [main] DEBUG com.intuit.karate - request:
+1 > DELETE https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:36:59.245 [main] DEBUG com.intuit.karate - response time in milliseconds: 309
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:36:58 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 998
+1 < X-Ratelimit-Reset: 1670369826
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=7.0000005507609e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lOLJlsoafU1q8cv6q1pDXKhkec1Z2zCRrWpU7fIQfeb%2FqY3rFCLWJsGpjG8XgxGt9tCmysQxGqCelT0lhu7P86epWWq1Th%2Fz1i251DNUoupoJmfofMwosvlPU%2BzyizJZ4fqBijFT5%2FbpG4fTBYIJ"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d8c4485202f8-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:36:59.291 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:36:59.295 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/users
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:36:59.350 [main] DEBUG com.intuit.karate - response time in milliseconds: 51
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:36:58 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1666287429
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"160d-1eMSsxeJRfnVLRBmYJSbCiJZ1qQ"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 17817
+1 < Server-Timing: cf-q-config;dur=3.9999995351536e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2B4KepB%2Bs0JL7JukRKHayaE5xodU8DXupQXZ5bzYdnLkZ059kpEEuBzLZuddi0Pai%2FtAwzJWA80ZaYcSJGuacoIvPnE5zFtW3x2fwTRewrj%2B3LKjOQeVFoWFQ4CyAOTOClIoZKIT6W8As6qT3QE3j"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758d8c66e340123-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+[{"website":"hildegard.org","address":{"zipcode":"92998-3874","geo":{"lng":"81.1496","lat":"-37.3159"},"suite":"Apt. 556","city":"Gwenborough","street":"Kulas Light"},"phone":"1-770-736-8031 x56442","name":"Leanne Graham","company":{"bs":"harness real-time e-markets","catchPhrase":"Multi-layered client-server neural-net","name":"Romaguera-Crona"},"id":1,"email":"Sincere@april.biz","username":"Bret"},{"website":"anastasia.net","address":{"zipcode":"90566-7771","geo":{"lng":"-34.4618","lat":"-43.9509"},"suite":"Suite 879","city":"Wisokyburgh","street":"Victor Plains"},"phone":"010-692-6593 x09125","name":"Ervin Howell","company":{"bs":"synergize scalable supply-chains","catchPhrase":"Proactive didactic contingency","name":"Deckow-Crist"},"id":2,"email":"Shanna@melissa.tv","username":"Antonette"},{"website":"ramiro.info","address":{"zipcode":"59590-4157","geo":{"lng":"-47.0653","lat":"-68.6102"},"suite":"Suite 847","city":"McKenziehaven","street":"Douglas Extension"},"phone":"1-463-123-4447","name":"Clementine Bauch","company":{"bs":"e-enable strategic applications","catchPhrase":"Face to face bifurcated interface","name":"Romaguera-Jacobson"},"id":3,"email":"Nathan@yesenia.net","username":"Samantha"},{"website":"kale.biz","address":{"zipcode":"53919-4257","geo":{"lng":"-164.2990","lat":"29.4572"},"suite":"Apt. 692","city":"South Elvis","street":"Hoeger Mall"},"phone":"493-170-9623 x156","name":"Patricia Lebsack","company":{"bs":"transition cutting-edge web services","catchPhrase":"Multi-tiered zero tolerance productivity","name":"Robel-Corkery"},"id":4,"email":"Julianne.OConner@kory.org","username":"Karianne"},{"website":"demarco.info","address":{"zipcode":"33263","geo":{"lng":"62.5342","lat":"-31.8129"},"suite":"Suite 351","city":"Roscoeview","street":"Skiles Walks"},"phone":"(254)954-1289","name":"Chelsey Dietrich","company":{"bs":"revolutionize end-to-end systems","catchPhrase":"User-centric fault-tolerant solution","name":"Keebler LLC"},"id":5,"email":"Lucio_Hettinger@annie.ca","username":"Kamren"},{"website":"ola.org","address":{"zipcode":"23505-1337","geo":{"lng":"71.7478","lat":"-71.4197"},"suite":"Apt. 950","city":"South Christy","street":"Norberto Crossing"},"phone":"1-477-935-8478 x6430","name":"Mrs. Dennis Schulist","company":{"bs":"e-enable innovative applications","catchPhrase":"Synchronised bottom-line interface","name":"Considine-Lockman"},"id":6,"email":"Karley_Dach@jasper.info","username":"Leopoldo_Corkery"},{"website":"elvis.io","address":{"zipcode":"58804-1099","geo":{"lng":"21.8984","lat":"24.8918"},"suite":"Suite 280","city":"Howemouth","street":"Rex Trail"},"phone":"210.067.6132","name":"Kurtis Weissnat","company":{"bs":"generate enterprise e-tailers","catchPhrase":"Configurable multimedia task-force","name":"Johns Group"},"id":7,"email":"Telly.Hoeger@billy.biz","username":"Elwyn.Skiles"},{"website":"jacynthe.com","address":{"zipcode":"45169","geo":{"lng":"-120.7677","lat":"-14.3990"},"suite":"Suite 729","city":"Aliyaview","street":"Ellsworth Summit"},"phone":"586.493.6943 x140","name":"Nicholas Runolfsdottir V","company":{"bs":"e-enable extensible e-tailers","catchPhrase":"Implemented secondary concept","name":"Abernathy Group"},"id":8,"email":"Sherwood@rosamond.me","username":"Maxime_Nienow"},{"website":"conrad.com","address":{"zipcode":"76495-3109","geo":{"lng":"-168.8889","lat":"24.6463"},"suite":"Suite 449","city":"Bartholomebury","street":"Dayna Park"},"phone":"(775)976-6794 x41206","name":"Glenna Reichert","company":{"bs":"aggregate real-time technologies","catchPhrase":"Switchable contextually-based project","name":"Yost and Sons"},"id":9,"email":"Chaim_McDermott@dana.io","username":"Delphine"},{"website":"ambrose.net","address":{"zipcode":"31428-2261","geo":{"lng":"57.2232","lat":"-38.2386"},"suite":"Suite 198","city":"Lebsackbury","street":"Kattie Turnpike"},"phone":"024-648-3804","name":"Clementina DuBuque","company":{"bs":"target end-to-end models","catchPhrase":"Centralized empowering task-force","name":"Hoeger LLC"},"id":10,"email":"Rey.Padberg@karina.biz","username":"Moriah.Stanton"}]
+20:36:59.355 [main] INFO  com.intuit.karate - [print] [
+  {
+    "website": "hildegard.org",
+    "address": {
+      "zipcode": "92998-3874",
+      "geo": {
+        "lng": "81.1496",
+        "lat": "-37.3159"
+      },
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "street": "Kulas Light"
+    },
+    "phone": "1-770-736-8031 x56442",
+    "name": "Leanne Graham",
+    "company": {
+      "bs": "harness real-time e-markets",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "name": "Romaguera-Crona"
+    },
+    "id": 1,
+    "email": "Sincere@april.biz",
+    "username": "Bret"
+  },
+  {
+    "website": "anastasia.net",
+    "address": {
+      "zipcode": "90566-7771",
+      "geo": {
+        "lng": "-34.4618",
+        "lat": "-43.9509"
+      },
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "street": "Victor Plains"
+    },
+    "phone": "010-692-6593 x09125",
+    "name": "Ervin Howell",
+    "company": {
+      "bs": "synergize scalable supply-chains",
+      "catchPhrase": "Proactive didactic contingency",
+      "name": "Deckow-Crist"
+    },
+    "id": 2,
+    "email": "Shanna@melissa.tv",
+    "username": "Antonette"
+  },
+  {
+    "website": "ramiro.info",
+    "address": {
+      "zipcode": "59590-4157",
+      "geo": {
+        "lng": "-47.0653",
+        "lat": "-68.6102"
+      },
+      "suite": "Suite 847",
+      "city": "McKenziehaven",
+      "street": "Douglas Extension"
+    },
+    "phone": "1-463-123-4447",
+    "name": "Clementine Bauch",
+    "company": {
+      "bs": "e-enable strategic applications",
+      "catchPhrase": "Face to face bifurcated interface",
+      "name": "Romaguera-Jacobson"
+    },
+    "id": 3,
+    "email": "Nathan@yesenia.net",
+    "username": "Samantha"
+  },
+  {
+    "website": "kale.biz",
+    "address": {
+      "zipcode": "53919-4257",
+      "geo": {
+        "lng": "-164.2990",
+        "lat": "29.4572"
+      },
+      "suite": "Apt. 692",
+      "city": "South Elvis",
+      "street": "Hoeger Mall"
+    },
+    "phone": "493-170-9623 x156",
+    "name": "Patricia Lebsack",
+    "company": {
+      "bs": "transition cutting-edge web services",
+      "catchPhrase": "Multi-tiered zero tolerance productivity",
+      "name": "Robel-Corkery"
+    },
+    "id": 4,
+    "email": "Julianne.OConner@kory.org",
+    "username": "Karianne"
+  },
+  {
+    "website": "demarco.info",
+    "address": {
+      "zipcode": "33263",
+      "geo": {
+        "lng": "62.5342",
+        "lat": "-31.8129"
+      },
+      "suite": "Suite 351",
+      "city": "Roscoeview",
+      "street": "Skiles Walks"
+    },
+    "phone": "(254)954-1289",
+    "name": "Chelsey Dietrich",
+    "company": {
+      "bs": "revolutionize end-to-end systems",
+      "catchPhrase": "User-centric fault-tolerant solution",
+      "name": "Keebler LLC"
+    },
+    "id": 5,
+    "email": "Lucio_Hettinger@annie.ca",
+    "username": "Kamren"
+  },
+  {
+    "website": "ola.org",
+    "address": {
+      "zipcode": "23505-1337",
+      "geo": {
+        "lng": "71.7478",
+        "lat": "-71.4197"
+      },
+      "suite": "Apt. 950",
+      "city": "South Christy",
+      "street": "Norberto Crossing"
+    },
+    "phone": "1-477-935-8478 x6430",
+    "name": "Mrs. Dennis Schulist",
+    "company": {
+      "bs": "e-enable innovative applications",
+      "catchPhrase": "Synchronised bottom-line interface",
+      "name": "Considine-Lockman"
+    },
+    "id": 6,
+    "email": "Karley_Dach@jasper.info",
+    "username": "Leopoldo_Corkery"
+  },
+  {
+    "website": "elvis.io",
+    "address": {
+      "zipcode": "58804-1099",
+      "geo": {
+        "lng": "21.8984",
+        "lat": "24.8918"
+      },
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "street": "Rex Trail"
+    },
+    "phone": "210.067.6132",
+    "name": "Kurtis Weissnat",
+    "company": {
+      "bs": "generate enterprise e-tailers",
+      "catchPhrase": "Configurable multimedia task-force",
+      "name": "Johns Group"
+    },
+    "id": 7,
+    "email": "Telly.Hoeger@billy.biz",
+    "username": "Elwyn.Skiles"
+  },
+  {
+    "website": "jacynthe.com",
+    "address": {
+      "zipcode": "45169",
+      "geo": {
+        "lng": "-120.7677",
+        "lat": "-14.3990"
+      },
+      "suite": "Suite 729",
+      "city": "Aliyaview",
+      "street": "Ellsworth Summit"
+    },
+    "phone": "586.493.6943 x140",
+    "name": "Nicholas Runolfsdottir V",
+    "company": {
+      "bs": "e-enable extensible e-tailers",
+      "catchPhrase": "Implemented secondary concept",
+      "name": "Abernathy Group"
+    },
+    "id": 8,
+    "email": "Sherwood@rosamond.me",
+    "username": "Maxime_Nienow"
+  },
+  {
+    "website": "conrad.com",
+    "address": {
+      "zipcode": "76495-3109",
+      "geo": {
+        "lng": "-168.8889",
+        "lat": "24.6463"
+      },
+      "suite": "Suite 449",
+      "city": "Bartholomebury",
+      "street": "Dayna Park"
+    },
+    "phone": "(775)976-6794 x41206",
+    "name": "Glenna Reichert",
+    "company": {
+      "bs": "aggregate real-time technologies",
+      "catchPhrase": "Switchable contextually-based project",
+      "name": "Yost and Sons"
+    },
+    "id": 9,
+    "email": "Chaim_McDermott@dana.io",
+    "username": "Delphine"
+  },
+  {
+    "website": "ambrose.net",
+    "address": {
+      "zipcode": "31428-2261",
+      "geo": {
+        "lng": "57.2232",
+        "lat": "-38.2386"
+      },
+      "suite": "Suite 198",
+      "city": "Lebsackbury",
+      "street": "Kattie Turnpike"
+    },
+    "phone": "024-648-3804",
+    "name": "Clementina DuBuque",
+    "company": {
+      "bs": "target end-to-end models",
+      "catchPhrase": "Centralized empowering task-force",
+      "name": "Hoeger LLC"
+    },
+    "id": 10,
+    "email": "Rey.Padberg@karina.biz",
+    "username": "Moriah.Stanton"
+  }
+]
+ 
+20:39:04.626 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:39:06.045 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:39:06.783 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:39:07.183 [main] DEBUG com.intuit.karate - response time in milliseconds: 390
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:39:06 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670324383
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"53-hfEnumeNh6YirfjyjaujcOPPT+s"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 16768
+1 < Server-Timing: cf-q-config;dur=7.9999990703072e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=U4nlbHaMQePzecmnF0bCa7CU91mFeYMaObIMmQS1cs2V9DgzypiNUBD%2BrqmOIIzBxuY%2FvdrTQprCTCbgGhlUIA6vM9%2BaIeGeaW11PGc%2FxV4Y5FxtmxxnwF7c1c1ftMh24EbrRRTqUF6ebAOMeT%2B%2B"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758dbe51fed00f3-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{"id":1,"completed":false,"title":"delectus aut autem","userId":1}
+20:39:07.197 [main] INFO  com.intuit.karate - [print] {
+  "id": 1,
+  "completed": false,
+  "title": "delectus aut autem",
+  "userId": 1
+}
+ 
+20:39:07.248 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:39:07.256 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/todos/3232
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:39:08.338 [main] DEBUG com.intuit.karate - response time in milliseconds: 1081
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:39:07 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670368926
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 1065
+1 < Server-Timing: cf-q-config;dur=7.9999990703072e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WgpxD%2B1aOKbK9rKC3XABsrlYOzLqqNuo%2FVDMVk%2Ffzsbj5hRNZpde5JRlRI9thHiSpej4nQ4YhIohdP%2BGk0TRr0gp8c81hQ2OmclUTKEIlWSR%2BFtwfiaIQIYGuYYaEmxwUfmAB98xjCLa0w3xl4Zn"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758dbec789201d5-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:39:08.350 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:39:08.383 [main] DEBUG com.intuit.karate - request:
+1 > POST https://jsonplaceholder.typicode.com/posts/1
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 39
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+{"title":"foo","body":"bar","userId":1}
+
+20:39:08.684 [main] DEBUG com.intuit.karate - response time in milliseconds: 300
+1 < 404
+1 < Date: Tue, 06 Dec 2022 23:39:07 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 999
+1 < X-Ratelimit-Reset: 1670370007
+1 < Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=TmezUTrB93LUd6XQ7AeHHeL%2FQUnrSd6d0dE9lcu44kc8OZmMSObood8AR4V3GYVGDVouw%2FFg8jF3XzzWZ%2FjUqpQPy3JoBbJnP8%2Fu747Qc4IqMZ70jCYk9Ebt3rGiPhbkwyvRf4vMRbLyMfFcOLFP"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758dbed19afa4c3-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:39:08.694 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:39:08.698 [main] DEBUG com.intuit.karate - request:
+1 > DELETE https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:39:08.998 [main] DEBUG com.intuit.karate - response time in milliseconds: 299
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:39:08 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 2
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 998
+1 < X-Ratelimit-Reset: 1670370007
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: no-cache
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: DYNAMIC
+1 < Server-Timing: cf-q-config;dur=7.0000005507609e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=01ESAfhUg6OE4uZZ8w2SSOwNe9ZztBkrqRLdFvygE1IITYDaUnwSSlweqQVJcCWwIJnLts6%2F1O30gVJ6LPAEMDNwesSFMJed6V%2BuL%2B0ndyTM2rdLoMb8fBoR8TqSw0q3Wm5P8gAByrnq6cjmL2sO"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758dbef1b5ea52f-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+{}
+20:39:09.007 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:39:09.011 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/users
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:39:09.070 [main] DEBUG com.intuit.karate - response time in milliseconds: 57
+1 < 200
+1 < Date: Tue, 06 Dec 2022 23:39:08 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < X-Powered-By: Express
+1 < X-Ratelimit-Limit: 1000
+1 < X-Ratelimit-Remaining: 998
+1 < X-Ratelimit-Reset: 1670251159
+1 < Vary: Origin, Accept-Encoding
+1 < Access-Control-Allow-Credentials: true
+1 < Cache-Control: max-age=43200
+1 < Pragma: no-cache
+1 < Expires: -1
+1 < X-Content-Type-Options: nosniff
+1 < Etag: W/"160d-1eMSsxeJRfnVLRBmYJSbCiJZ1qQ"
+1 < Via: 1.1 vegur
+1 < CF-Cache-Status: HIT
+1 < Age: 2948
+1 < Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FX9rN776%2F1AkD%2B%2FNrXRWyLwDJ8HjtYA767t18Tde8ktoiQnpTWZI6AS4VtUN2WrVDPj%2B9Xk%2BYtN3w07ULvEt7oP0yblVuFAhH7PuTkp7H0QB0jGGutmOSTu%2FkqDv4YD0E8oBpI4YxYkNZ2e3eKTL"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 7758dbf10aef1b2a-GRU
+1 < alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+[{"website":"hildegard.org","address":{"zipcode":"92998-3874","geo":{"lng":"81.1496","lat":"-37.3159"},"suite":"Apt. 556","city":"Gwenborough","street":"Kulas Light"},"phone":"1-770-736-8031 x56442","name":"Leanne Graham","company":{"bs":"harness real-time e-markets","catchPhrase":"Multi-layered client-server neural-net","name":"Romaguera-Crona"},"id":1,"email":"Sincere@april.biz","username":"Bret"},{"website":"anastasia.net","address":{"zipcode":"90566-7771","geo":{"lng":"-34.4618","lat":"-43.9509"},"suite":"Suite 879","city":"Wisokyburgh","street":"Victor Plains"},"phone":"010-692-6593 x09125","name":"Ervin Howell","company":{"bs":"synergize scalable supply-chains","catchPhrase":"Proactive didactic contingency","name":"Deckow-Crist"},"id":2,"email":"Shanna@melissa.tv","username":"Antonette"},{"website":"ramiro.info","address":{"zipcode":"59590-4157","geo":{"lng":"-47.0653","lat":"-68.6102"},"suite":"Suite 847","city":"McKenziehaven","street":"Douglas Extension"},"phone":"1-463-123-4447","name":"Clementine Bauch","company":{"bs":"e-enable strategic applications","catchPhrase":"Face to face bifurcated interface","name":"Romaguera-Jacobson"},"id":3,"email":"Nathan@yesenia.net","username":"Samantha"},{"website":"kale.biz","address":{"zipcode":"53919-4257","geo":{"lng":"-164.2990","lat":"29.4572"},"suite":"Apt. 692","city":"South Elvis","street":"Hoeger Mall"},"phone":"493-170-9623 x156","name":"Patricia Lebsack","company":{"bs":"transition cutting-edge web services","catchPhrase":"Multi-tiered zero tolerance productivity","name":"Robel-Corkery"},"id":4,"email":"Julianne.OConner@kory.org","username":"Karianne"},{"website":"demarco.info","address":{"zipcode":"33263","geo":{"lng":"62.5342","lat":"-31.8129"},"suite":"Suite 351","city":"Roscoeview","street":"Skiles Walks"},"phone":"(254)954-1289","name":"Chelsey Dietrich","company":{"bs":"revolutionize end-to-end systems","catchPhrase":"User-centric fault-tolerant solution","name":"Keebler LLC"},"id":5,"email":"Lucio_Hettinger@annie.ca","username":"Kamren"},{"website":"ola.org","address":{"zipcode":"23505-1337","geo":{"lng":"71.7478","lat":"-71.4197"},"suite":"Apt. 950","city":"South Christy","street":"Norberto Crossing"},"phone":"1-477-935-8478 x6430","name":"Mrs. Dennis Schulist","company":{"bs":"e-enable innovative applications","catchPhrase":"Synchronised bottom-line interface","name":"Considine-Lockman"},"id":6,"email":"Karley_Dach@jasper.info","username":"Leopoldo_Corkery"},{"website":"elvis.io","address":{"zipcode":"58804-1099","geo":{"lng":"21.8984","lat":"24.8918"},"suite":"Suite 280","city":"Howemouth","street":"Rex Trail"},"phone":"210.067.6132","name":"Kurtis Weissnat","company":{"bs":"generate enterprise e-tailers","catchPhrase":"Configurable multimedia task-force","name":"Johns Group"},"id":7,"email":"Telly.Hoeger@billy.biz","username":"Elwyn.Skiles"},{"website":"jacynthe.com","address":{"zipcode":"45169","geo":{"lng":"-120.7677","lat":"-14.3990"},"suite":"Suite 729","city":"Aliyaview","street":"Ellsworth Summit"},"phone":"586.493.6943 x140","name":"Nicholas Runolfsdottir V","company":{"bs":"e-enable extensible e-tailers","catchPhrase":"Implemented secondary concept","name":"Abernathy Group"},"id":8,"email":"Sherwood@rosamond.me","username":"Maxime_Nienow"},{"website":"conrad.com","address":{"zipcode":"76495-3109","geo":{"lng":"-168.8889","lat":"24.6463"},"suite":"Suite 449","city":"Bartholomebury","street":"Dayna Park"},"phone":"(775)976-6794 x41206","name":"Glenna Reichert","company":{"bs":"aggregate real-time technologies","catchPhrase":"Switchable contextually-based project","name":"Yost and Sons"},"id":9,"email":"Chaim_McDermott@dana.io","username":"Delphine"},{"website":"ambrose.net","address":{"zipcode":"31428-2261","geo":{"lng":"57.2232","lat":"-38.2386"},"suite":"Suite 198","city":"Lebsackbury","street":"Kattie Turnpike"},"phone":"024-648-3804","name":"Clementina DuBuque","company":{"bs":"target end-to-end models","catchPhrase":"Centralized empowering task-force","name":"Hoeger LLC"},"id":10,"email":"Rey.Padberg@karina.biz","username":"Moriah.Stanton"}]
+20:39:09.075 [main] INFO  com.intuit.karate - [print] [
+  {
+    "website": "hildegard.org",
+    "address": {
+      "zipcode": "92998-3874",
+      "geo": {
+        "lng": "81.1496",
+        "lat": "-37.3159"
+      },
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "street": "Kulas Light"
+    },
+    "phone": "1-770-736-8031 x56442",
+    "name": "Leanne Graham",
+    "company": {
+      "bs": "harness real-time e-markets",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "name": "Romaguera-Crona"
+    },
+    "id": 1,
+    "email": "Sincere@april.biz",
+    "username": "Bret"
+  },
+  {
+    "website": "anastasia.net",
+    "address": {
+      "zipcode": "90566-7771",
+      "geo": {
+        "lng": "-34.4618",
+        "lat": "-43.9509"
+      },
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "street": "Victor Plains"
+    },
+    "phone": "010-692-6593 x09125",
+    "name": "Ervin Howell",
+    "company": {
+      "bs": "synergize scalable supply-chains",
+      "catchPhrase": "Proactive didactic contingency",
+      "name": "Deckow-Crist"
+    },
+    "id": 2,
+    "email": "Shanna@melissa.tv",
+    "username": "Antonette"
+  },
+  {
+    "website": "ramiro.info",
+    "address": {
+      "zipcode": "59590-4157",
+      "geo": {
+        "lng": "-47.0653",
+        "lat": "-68.6102"
+      },
+      "suite": "Suite 847",
+      "city": "McKenziehaven",
+      "street": "Douglas Extension"
+    },
+    "phone": "1-463-123-4447",
+    "name": "Clementine Bauch",
+    "company": {
+      "bs": "e-enable strategic applications",
+      "catchPhrase": "Face to face bifurcated interface",
+      "name": "Romaguera-Jacobson"
+    },
+    "id": 3,
+    "email": "Nathan@yesenia.net",
+    "username": "Samantha"
+  },
+  {
+    "website": "kale.biz",
+    "address": {
+      "zipcode": "53919-4257",
+      "geo": {
+        "lng": "-164.2990",
+        "lat": "29.4572"
+      },
+      "suite": "Apt. 692",
+      "city": "South Elvis",
+      "street": "Hoeger Mall"
+    },
+    "phone": "493-170-9623 x156",
+    "name": "Patricia Lebsack",
+    "company": {
+      "bs": "transition cutting-edge web services",
+      "catchPhrase": "Multi-tiered zero tolerance productivity",
+      "name": "Robel-Corkery"
+    },
+    "id": 4,
+    "email": "Julianne.OConner@kory.org",
+    "username": "Karianne"
+  },
+  {
+    "website": "demarco.info",
+    "address": {
+      "zipcode": "33263",
+      "geo": {
+        "lng": "62.5342",
+        "lat": "-31.8129"
+      },
+      "suite": "Suite 351",
+      "city": "Roscoeview",
+      "street": "Skiles Walks"
+    },
+    "phone": "(254)954-1289",
+    "name": "Chelsey Dietrich",
+    "company": {
+      "bs": "revolutionize end-to-end systems",
+      "catchPhrase": "User-centric fault-tolerant solution",
+      "name": "Keebler LLC"
+    },
+    "id": 5,
+    "email": "Lucio_Hettinger@annie.ca",
+    "username": "Kamren"
+  },
+  {
+    "website": "ola.org",
+    "address": {
+      "zipcode": "23505-1337",
+      "geo": {
+        "lng": "71.7478",
+        "lat": "-71.4197"
+      },
+      "suite": "Apt. 950",
+      "city": "South Christy",
+      "street": "Norberto Crossing"
+    },
+    "phone": "1-477-935-8478 x6430",
+    "name": "Mrs. Dennis Schulist",
+    "company": {
+      "bs": "e-enable innovative applications",
+      "catchPhrase": "Synchronised bottom-line interface",
+      "name": "Considine-Lockman"
+    },
+    "id": 6,
+    "email": "Karley_Dach@jasper.info",
+    "username": "Leopoldo_Corkery"
+  },
+  {
+    "website": "elvis.io",
+    "address": {
+      "zipcode": "58804-1099",
+      "geo": {
+        "lng": "21.8984",
+        "lat": "24.8918"
+      },
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "street": "Rex Trail"
+    },
+    "phone": "210.067.6132",
+    "name": "Kurtis Weissnat",
+    "company": {
+      "bs": "generate enterprise e-tailers",
+      "catchPhrase": "Configurable multimedia task-force",
+      "name": "Johns Group"
+    },
+    "id": 7,
+    "email": "Telly.Hoeger@billy.biz",
+    "username": "Elwyn.Skiles"
+  },
+  {
+    "website": "jacynthe.com",
+    "address": {
+      "zipcode": "45169",
+      "geo": {
+        "lng": "-120.7677",
+        "lat": "-14.3990"
+      },
+      "suite": "Suite 729",
+      "city": "Aliyaview",
+      "street": "Ellsworth Summit"
+    },
+    "phone": "586.493.6943 x140",
+    "name": "Nicholas Runolfsdottir V",
+    "company": {
+      "bs": "e-enable extensible e-tailers",
+      "catchPhrase": "Implemented secondary concept",
+      "name": "Abernathy Group"
+    },
+    "id": 8,
+    "email": "Sherwood@rosamond.me",
+    "username": "Maxime_Nienow"
+  },
+  {
+    "website": "conrad.com",
+    "address": {
+      "zipcode": "76495-3109",
+      "geo": {
+        "lng": "-168.8889",
+        "lat": "24.6463"
+      },
+      "suite": "Suite 449",
+      "city": "Bartholomebury",
+      "street": "Dayna Park"
+    },
+    "phone": "(775)976-6794 x41206",
+    "name": "Glenna Reichert",
+    "company": {
+      "bs": "aggregate real-time technologies",
+      "catchPhrase": "Switchable contextually-based project",
+      "name": "Yost and Sons"
+    },
+    "id": 9,
+    "email": "Chaim_McDermott@dana.io",
+    "username": "Delphine"
+  },
+  {
+    "website": "ambrose.net",
+    "address": {
+      "zipcode": "31428-2261",
+      "geo": {
+        "lng": "57.2232",
+        "lat": "-38.2386"
+      },
+      "suite": "Suite 198",
+      "city": "Lebsackbury",
+      "street": "Kattie Turnpike"
+    },
+    "phone": "024-648-3804",
+    "name": "Clementina DuBuque",
+    "company": {
+      "bs": "target end-to-end models",
+      "catchPhrase": "Centralized empowering task-force",
+      "name": "Hoeger LLC"
+    },
+    "id": 10,
+    "email": "Rey.Padberg@karina.biz",
+    "username": "Moriah.Stanton"
+  }
+]
+ 

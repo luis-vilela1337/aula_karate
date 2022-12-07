@@ -1,0 +1,1616 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <link rel="stylesheet" href="res/bootstrap.min.css" type="text/css"/>
+    <link rel="stylesheet" href="res/karate-report.css" type="text/css"/>
+    <link rel="shortcut icon" href="favicon.ico"/>
+    <script type="text/javascript" src="res/jquery.min.js"></script>
+    <script type="text/javascript" src="res/jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" src="res/bootstrap.min.js"></script>
+    <script type="text/javascript" src="res/karate-report.js"></script>
+    <title>aula_inatel.jsonplaceholder.jsonplaceholder</title>  
+  </head>
+  <body>   
+    <div id="root-container">
+      <div id="leftnav">
+                
+        <div>
+  <div class="nav-logo">
+    <a href="karate-summary.html">
+      <img src="karate-logo.svg" alt="Karate"/>
+    </a>
+    <div class="nav-count">
+      <div id="nav-pass" class="bg-success">5</div>
+      <div id="nav-fail" class="bg-danger">0</div>
+    </div>
+  </div>
+  <div id="nav-type">
+    <div>Scenarios</div>
+  </div>         
+  <div id="nav-date">
+    <div>2022-12-06 08:39:09 PM</div>
+  </div>        
+</div>
+
+        <div class="nav-container">
+          <div class="nav-item passed">
+            <a href="#[1:5]"><span>[1:5]</span> <span>Testando retorno</span></a>
+          </div>
+          <div class="nav-item passed">
+            <a href="#[2:15]"><span>[2:15]</span> <span>Testando retorno com bad invalido chamando endpoint que nao existe</span></a>
+          </div>
+          <div class="nav-item passed">
+            <a href="#[3:21]"><span>[3:21]</span> <span>Testando retorno com metodo post com bad request</span></a>
+          </div>
+          <div class="nav-item passed">
+            <a href="#[4:28]"><span>[4:28]</span> <span>Testando retorno com metodo delete</span></a>
+          </div>
+          <div class="nav-item passed">
+            <a href="#[5:35]"><span>[5:35]</span> <span>Testando retorno e check json</span></a>
+          </div>
+        </div>
+      </div>
+      <div id="content">
+        <div class="page-heading alert alert-primary">
+          <a href="karate-summary.html">Summary</a><span class="feature-label">|</span>
+          <a href="karate-tags.html">Tags</a><span class="feature-label">|</span>
+          <span class="feature-label">Feature:</span>
+          <span class="feature-path">aula_inatel/jsonplaceholder/jsonplaceholder.feature</span><span class="feature-label">|</span>
+          <span class="feature-name">Testando API JSONplaceholder</span>
+          <span class="feature-description"></span>
+        </div>
+        <div class="scenario">
+          <div class="scenario-heading" id="[1:5]">
+            <div class="heading-container">
+              <div class="scenario-tags">
+                
+              </div>
+              <div class="scenario-keyword">
+                Scenario: <span>[1:5]</span>
+                <span class="scenario-name">Testando retorno</span>
+                <span></span>
+              </div>
+            </div>
+            <div class="scenario-time passed">
+              <span>ms:</span>&nbsp;<span>1079</span>
+            </div>
+          </div>
+          <div class="step-row">
+            <div class="step-container" id="[1:5]bg">
+              <div class="step-ref bg-step">&gt;&gt;</div>
+              <div class="step-cell passed">Background:</div>
+            </div>
+            <div class="time-cell passed"></div>
+          </div>
+          <div data-parent="[1:5]bg"><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.3">
+      <div class="step-ref bg-step">3</div>
+      
+      <div class="step-cell passed">
+        <span>*</span>&nbsp;<span>def url_base =  &quot;https://jsonplaceholder.typicode.com/&quot;</span>
+      </div>
+    </div>
+    <div class="time-cell passed">6</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.3">20:39:06.052 karate.env system property was: null 
+</div>   
+
+  
+
+</div>
+</div>
+          <div data-parent="[1:5]bg"><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.4">
+      <div class="step-ref bg-step">4</div>
+      
+      <div class="step-cell passed">
+        <span>*</span>&nbsp;<span>def post_request = {&quot;userId&quot;:1,&quot;title&quot;:&quot;foo&quot;,&quot;body&quot;:&quot;bar&quot;}</span>
+      </div>
+    </div>
+    <div class="time-cell passed">74</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.6">
+      <div class="step-ref passed">6</div>
+      
+      <div class="step-cell passed">
+        <span>Given</span>&nbsp;<span>url url_base</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.7">
+      <div class="step-ref passed">7</div>
+      
+      <div class="step-cell passed">
+        <span>And</span>&nbsp;<span>path &quot;todos/1&quot;</span>
+      </div>
+    </div>
+    <div class="time-cell passed">16</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.8">
+      <div class="step-ref passed">8</div>
+      
+      <div class="step-cell passed">
+        <span>When</span>&nbsp;<span>method get</span>
+      </div>
+    </div>
+    <div class="time-cell passed">959</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.8">20:39:06.783 request:
+1 &gt; GET https://jsonplaceholder.typicode.com/todos/1
+1 &gt; Host: jsonplaceholder.typicode.com
+1 &gt; Connection: Keep-Alive
+1 &gt; User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 &gt; Accept-Encoding: gzip,deflate
+
+
+20:39:07.183 response time in milliseconds: 390
+1 &lt; 200
+1 &lt; Date: Tue, 06 Dec 2022 23:39:06 GMT
+1 &lt; Content-Type: application/json; charset=utf-8
+1 &lt; Transfer-Encoding: chunked
+1 &lt; Connection: keep-alive
+1 &lt; X-Powered-By: Express
+1 &lt; X-Ratelimit-Limit: 1000
+1 &lt; X-Ratelimit-Remaining: 999
+1 &lt; X-Ratelimit-Reset: 1670324383
+1 &lt; Vary: Origin, Accept-Encoding
+1 &lt; Access-Control-Allow-Credentials: true
+1 &lt; Cache-Control: max-age=43200
+1 &lt; Pragma: no-cache
+1 &lt; Expires: -1
+1 &lt; X-Content-Type-Options: nosniff
+1 &lt; Etag: W/&quot;53-hfEnumeNh6YirfjyjaujcOPPT+s&quot;
+1 &lt; Via: 1.1 vegur
+1 &lt; CF-Cache-Status: HIT
+1 &lt; Age: 16768
+1 &lt; Server-Timing: cf-q-config;dur=7.9999990703072e-06
+1 &lt; Report-To: {&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https:\/\/a.nel.cloudflare.com\/report\/v3?s=U4nlbHaMQePzecmnF0bCa7CU91mFeYMaObIMmQS1cs2V9DgzypiNUBD%2BrqmOIIzBxuY%2FvdrTQprCTCbgGhlUIA6vM9%2BaIeGeaW11PGc%2FxV4Y5FxtmxxnwF7c1c1ftMh24EbrRRTqUF6ebAOMeT%2B%2B&quot;}],&quot;group&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+1 &lt; NEL: {&quot;success_fraction&quot;:0,&quot;report_to&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+1 &lt; Server: cloudflare
+1 &lt; CF-RAY: 7758dbe51fed00f3-GRU
+1 &lt; alt-svc: h3=&quot;:443&quot;; ma=86400, h3-29=&quot;:443&quot;; ma=86400
+{&quot;id&quot;:1,&quot;completed&quot;:false,&quot;title&quot;:&quot;delectus aut autem&quot;,&quot;userId&quot;:1}
+</div>   
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.9">
+      <div class="step-ref passed">9</div>
+      
+      <div class="step-cell passed">
+        <span>Then</span>&nbsp;<span>status 200</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.10">
+      <div class="step-ref passed">10</div>
+      
+      <div class="step-cell passed">
+        <span>And</span>&nbsp;<span>def batata = response</span>
+      </div>
+    </div>
+    <div class="time-cell passed">1</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.11">
+      <div class="step-ref passed">11</div>
+      
+      <div class="step-cell passed">
+        <span>And</span>&nbsp;<span>print batata</span>
+      </div>
+    </div>
+    <div class="time-cell passed">9</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.11">20:39:07.198 [print] {
+  &quot;id&quot;: 1,
+  &quot;completed&quot;: false,
+  &quot;title&quot;: &quot;delectus aut autem&quot;,
+  &quot;userId&quot;: 1
+}
+ 
+</div>   
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.12">
+      <div class="step-ref passed">12</div>
+      
+      <div class="step-cell passed">
+        <span>And</span>&nbsp;<span>match $.id == 1</span>
+      </div>
+    </div>
+    <div class="time-cell passed">15</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+        </div>
+        <div class="scenario">
+          <div class="scenario-heading" id="[2:15]">
+            <div class="heading-container">
+              <div class="scenario-tags">
+                
+              </div>
+              <div class="scenario-keyword">
+                Scenario: <span>[2:15]</span>
+                <span class="scenario-name">Testando retorno com bad invalido chamando endpoint que nao existe</span>
+                <span></span>
+              </div>
+            </div>
+            <div class="scenario-time passed">
+              <span>ms:</span>&nbsp;<span>1089</span>
+            </div>
+          </div>
+          <div class="step-row">
+            <div class="step-container" id="[2:15]bg">
+              <div class="step-ref bg-step">&gt;&gt;</div>
+              <div class="step-cell passed">Background:</div>
+            </div>
+            <div class="time-cell passed"></div>
+          </div>
+          <div data-parent="[2:15]bg"><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.3">
+      <div class="step-ref bg-step">3</div>
+      
+      <div class="step-cell passed">
+        <span>*</span>&nbsp;<span>def url_base =  &quot;https://jsonplaceholder.typicode.com/&quot;</span>
+      </div>
+    </div>
+    <div class="time-cell passed">1</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.3">20:39:07.248 karate.env system property was: null 
+</div>   
+
+  
+
+</div>
+</div>
+          <div data-parent="[2:15]bg"><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.4">
+      <div class="step-ref bg-step">4</div>
+      
+      <div class="step-cell passed">
+        <span>*</span>&nbsp;<span>def post_request = {&quot;userId&quot;:1,&quot;title&quot;:&quot;foo&quot;,&quot;body&quot;:&quot;bar&quot;}</span>
+      </div>
+    </div>
+    <div class="time-cell passed">1</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.16">
+      <div class="step-ref passed">16</div>
+      
+      <div class="step-cell passed">
+        <span>Given</span>&nbsp;<span>url url_base</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.17">
+      <div class="step-ref passed">17</div>
+      
+      <div class="step-cell passed">
+        <span>And</span>&nbsp;<span>path &quot;todos/3232&quot;</span>
+      </div>
+    </div>
+    <div class="time-cell passed">1</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.18">
+      <div class="step-ref passed">18</div>
+      
+      <div class="step-cell passed">
+        <span>When</span>&nbsp;<span>method get</span>
+      </div>
+    </div>
+    <div class="time-cell passed">1086</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.18">20:39:07.257 request:
+1 &gt; GET https://jsonplaceholder.typicode.com/todos/3232
+1 &gt; Host: jsonplaceholder.typicode.com
+1 &gt; Connection: Keep-Alive
+1 &gt; User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 &gt; Accept-Encoding: gzip,deflate
+
+
+20:39:08.339 response time in milliseconds: 1081
+1 &lt; 404
+1 &lt; Date: Tue, 06 Dec 2022 23:39:07 GMT
+1 &lt; Content-Type: application/json; charset=utf-8
+1 &lt; Content-Length: 2
+1 &lt; Connection: keep-alive
+1 &lt; X-Powered-By: Express
+1 &lt; X-Ratelimit-Limit: 1000
+1 &lt; X-Ratelimit-Remaining: 999
+1 &lt; X-Ratelimit-Reset: 1670368926
+1 &lt; Vary: Origin, Accept-Encoding
+1 &lt; Access-Control-Allow-Credentials: true
+1 &lt; Cache-Control: max-age=43200
+1 &lt; Pragma: no-cache
+1 &lt; Expires: -1
+1 &lt; X-Content-Type-Options: nosniff
+1 &lt; Etag: W/&quot;2-vyGp6PvFo4RvsFtPoIWeCReyIC8&quot;
+1 &lt; Via: 1.1 vegur
+1 &lt; CF-Cache-Status: HIT
+1 &lt; Age: 1065
+1 &lt; Server-Timing: cf-q-config;dur=7.9999990703072e-06
+1 &lt; Report-To: {&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https:\/\/a.nel.cloudflare.com\/report\/v3?s=WgpxD%2B1aOKbK9rKC3XABsrlYOzLqqNuo%2FVDMVk%2Ffzsbj5hRNZpde5JRlRI9thHiSpej4nQ4YhIohdP%2BGk0TRr0gp8c81hQ2OmclUTKEIlWSR%2BFtwfiaIQIYGuYYaEmxwUfmAB98xjCLa0w3xl4Zn&quot;}],&quot;group&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+1 &lt; NEL: {&quot;success_fraction&quot;:0,&quot;report_to&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+1 &lt; Server: cloudflare
+1 &lt; CF-RAY: 7758dbec789201d5-GRU
+1 &lt; alt-svc: h3=&quot;:443&quot;; ma=86400, h3-29=&quot;:443&quot;; ma=86400
+{}
+</div>   
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.19">
+      <div class="step-ref passed">19</div>
+      
+      <div class="step-cell passed">
+        <span>Then</span>&nbsp;<span>status 404</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+        </div>
+        <div class="scenario">
+          <div class="scenario-heading" id="[3:21]">
+            <div class="heading-container">
+              <div class="scenario-tags">
+                
+              </div>
+              <div class="scenario-keyword">
+                Scenario: <span>[3:21]</span>
+                <span class="scenario-name">Testando retorno com metodo post com bad request</span>
+                <span></span>
+              </div>
+            </div>
+            <div class="scenario-time passed">
+              <span>ms:</span>&nbsp;<span>334</span>
+            </div>
+          </div>
+          <div class="step-row">
+            <div class="step-container" id="[3:21]bg">
+              <div class="step-ref bg-step">&gt;&gt;</div>
+              <div class="step-cell passed">Background:</div>
+            </div>
+            <div class="time-cell passed"></div>
+          </div>
+          <div data-parent="[3:21]bg"><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.3">
+      <div class="step-ref bg-step">3</div>
+      
+      <div class="step-cell passed">
+        <span>*</span>&nbsp;<span>def url_base =  &quot;https://jsonplaceholder.typicode.com/&quot;</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.3">20:39:08.350 karate.env system property was: null 
+</div>   
+
+  
+
+</div>
+</div>
+          <div data-parent="[3:21]bg"><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.4">
+      <div class="step-ref bg-step">4</div>
+      
+      <div class="step-cell passed">
+        <span>*</span>&nbsp;<span>def post_request = {&quot;userId&quot;:1,&quot;title&quot;:&quot;foo&quot;,&quot;body&quot;:&quot;bar&quot;}</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.22">
+      <div class="step-ref passed">22</div>
+      
+      <div class="step-cell passed">
+        <span>Given</span>&nbsp;<span>url url_base</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.23">
+      <div class="step-ref passed">23</div>
+      
+      <div class="step-cell passed">
+        <span>And</span>&nbsp;<span>path &quot;posts/1&quot;</span>
+      </div>
+    </div>
+    <div class="time-cell passed">1</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.24">
+      <div class="step-ref passed">24</div>
+      
+      <div class="step-cell passed">
+        <span>When</span>&nbsp;<span>request post_request</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.25">
+      <div class="step-ref passed">25</div>
+      
+      <div class="step-cell passed">
+        <span>And</span>&nbsp;<span>method post</span>
+      </div>
+    </div>
+    <div class="time-cell passed">333</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.25">20:39:08.384 request:
+1 &gt; POST https://jsonplaceholder.typicode.com/posts/1
+1 &gt; Content-Type: application/json; charset=UTF-8
+1 &gt; Content-Length: 39
+1 &gt; Host: jsonplaceholder.typicode.com
+1 &gt; Connection: Keep-Alive
+1 &gt; User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 &gt; Accept-Encoding: gzip,deflate
+{&quot;title&quot;:&quot;foo&quot;,&quot;body&quot;:&quot;bar&quot;,&quot;userId&quot;:1}
+
+20:39:08.684 response time in milliseconds: 300
+1 &lt; 404
+1 &lt; Date: Tue, 06 Dec 2022 23:39:07 GMT
+1 &lt; Content-Type: application/json; charset=utf-8
+1 &lt; Content-Length: 2
+1 &lt; Connection: keep-alive
+1 &lt; X-Powered-By: Express
+1 &lt; X-Ratelimit-Limit: 1000
+1 &lt; X-Ratelimit-Remaining: 999
+1 &lt; X-Ratelimit-Reset: 1670370007
+1 &lt; Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+1 &lt; Access-Control-Allow-Credentials: true
+1 &lt; Cache-Control: no-cache
+1 &lt; Pragma: no-cache
+1 &lt; Expires: -1
+1 &lt; X-Content-Type-Options: nosniff
+1 &lt; Etag: W/&quot;2-vyGp6PvFo4RvsFtPoIWeCReyIC8&quot;
+1 &lt; Via: 1.1 vegur
+1 &lt; CF-Cache-Status: DYNAMIC
+1 &lt; Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 &lt; Report-To: {&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https:\/\/a.nel.cloudflare.com\/report\/v3?s=TmezUTrB93LUd6XQ7AeHHeL%2FQUnrSd6d0dE9lcu44kc8OZmMSObood8AR4V3GYVGDVouw%2FFg8jF3XzzWZ%2FjUqpQPy3JoBbJnP8%2Fu747Qc4IqMZ70jCYk9Ebt3rGiPhbkwyvRf4vMRbLyMfFcOLFP&quot;}],&quot;group&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+1 &lt; NEL: {&quot;success_fraction&quot;:0,&quot;report_to&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+1 &lt; Server: cloudflare
+1 &lt; CF-RAY: 7758dbed19afa4c3-GRU
+1 &lt; alt-svc: h3=&quot;:443&quot;; ma=86400, h3-29=&quot;:443&quot;; ma=86400
+{}
+</div>   
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.26">
+      <div class="step-ref passed">26</div>
+      
+      <div class="step-cell passed">
+        <span>Then</span>&nbsp;<span>status 404</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+        </div>
+        <div class="scenario">
+          <div class="scenario-heading" id="[4:28]">
+            <div class="heading-container">
+              <div class="scenario-tags">
+                
+              </div>
+              <div class="scenario-keyword">
+                Scenario: <span>[4:28]</span>
+                <span class="scenario-name">Testando retorno com metodo delete</span>
+                <span></span>
+              </div>
+            </div>
+            <div class="scenario-time passed">
+              <span>ms:</span>&nbsp;<span>304</span>
+            </div>
+          </div>
+          <div class="step-row">
+            <div class="step-container" id="[4:28]bg">
+              <div class="step-ref bg-step">&gt;&gt;</div>
+              <div class="step-cell passed">Background:</div>
+            </div>
+            <div class="time-cell passed"></div>
+          </div>
+          <div data-parent="[4:28]bg"><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.3">
+      <div class="step-ref bg-step">3</div>
+      
+      <div class="step-cell passed">
+        <span>*</span>&nbsp;<span>def url_base =  &quot;https://jsonplaceholder.typicode.com/&quot;</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.3">20:39:08.695 karate.env system property was: null 
+</div>   
+
+  
+
+</div>
+</div>
+          <div data-parent="[4:28]bg"><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.4">
+      <div class="step-ref bg-step">4</div>
+      
+      <div class="step-cell passed">
+        <span>*</span>&nbsp;<span>def post_request = {&quot;userId&quot;:1,&quot;title&quot;:&quot;foo&quot;,&quot;body&quot;:&quot;bar&quot;}</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.29">
+      <div class="step-ref passed">29</div>
+      
+      <div class="step-cell passed">
+        <span>Given</span>&nbsp;<span>url url_base</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.30">
+      <div class="step-ref passed">30</div>
+      
+      <div class="step-cell passed">
+        <span>And</span>&nbsp;<span>path &quot;posts/1&quot;</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.31">
+      <div class="step-ref passed">31</div>
+      
+      <div class="step-cell passed">
+        <span>When</span>&nbsp;<span>method delete</span>
+      </div>
+    </div>
+    <div class="time-cell passed">303</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.31">20:39:08.699 request:
+1 &gt; DELETE https://jsonplaceholder.typicode.com/posts/1
+1 &gt; Host: jsonplaceholder.typicode.com
+1 &gt; Connection: Keep-Alive
+1 &gt; User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 &gt; Accept-Encoding: gzip,deflate
+
+
+20:39:08.999 response time in milliseconds: 299
+1 &lt; 200
+1 &lt; Date: Tue, 06 Dec 2022 23:39:08 GMT
+1 &lt; Content-Type: application/json; charset=utf-8
+1 &lt; Content-Length: 2
+1 &lt; Connection: keep-alive
+1 &lt; X-Powered-By: Express
+1 &lt; X-Ratelimit-Limit: 1000
+1 &lt; X-Ratelimit-Remaining: 998
+1 &lt; X-Ratelimit-Reset: 1670370007
+1 &lt; Vary: Origin, Accept-Encoding
+1 &lt; Access-Control-Allow-Credentials: true
+1 &lt; Cache-Control: no-cache
+1 &lt; Pragma: no-cache
+1 &lt; Expires: -1
+1 &lt; X-Content-Type-Options: nosniff
+1 &lt; Etag: W/&quot;2-vyGp6PvFo4RvsFtPoIWeCReyIC8&quot;
+1 &lt; Via: 1.1 vegur
+1 &lt; CF-Cache-Status: DYNAMIC
+1 &lt; Server-Timing: cf-q-config;dur=7.0000005507609e-06
+1 &lt; Report-To: {&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https:\/\/a.nel.cloudflare.com\/report\/v3?s=01ESAfhUg6OE4uZZ8w2SSOwNe9ZztBkrqRLdFvygE1IITYDaUnwSSlweqQVJcCWwIJnLts6%2F1O30gVJ6LPAEMDNwesSFMJed6V%2BuL%2B0ndyTM2rdLoMb8fBoR8TqSw0q3Wm5P8gAByrnq6cjmL2sO&quot;}],&quot;group&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+1 &lt; NEL: {&quot;success_fraction&quot;:0,&quot;report_to&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+1 &lt; Server: cloudflare
+1 &lt; CF-RAY: 7758dbef1b5ea52f-GRU
+1 &lt; alt-svc: h3=&quot;:443&quot;; ma=86400, h3-29=&quot;:443&quot;; ma=86400
+{}
+</div>   
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.32">
+      <div class="step-ref passed">32</div>
+      
+      <div class="step-cell passed">
+        <span>Then</span>&nbsp;<span>status 200</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+        </div>
+        <div class="scenario">
+          <div class="scenario-heading" id="[5:35]">
+            <div class="heading-container">
+              <div class="scenario-tags">
+                
+              </div>
+              <div class="scenario-keyword">
+                Scenario: <span>[5:35]</span>
+                <span class="scenario-name">Testando retorno e check json</span>
+                <span></span>
+              </div>
+            </div>
+            <div class="scenario-time passed">
+              <span>ms:</span>&nbsp;<span>70</span>
+            </div>
+          </div>
+          <div class="step-row">
+            <div class="step-container" id="[5:35]bg">
+              <div class="step-ref bg-step">&gt;&gt;</div>
+              <div class="step-cell passed">Background:</div>
+            </div>
+            <div class="time-cell passed"></div>
+          </div>
+          <div data-parent="[5:35]bg"><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.3">
+      <div class="step-ref bg-step">3</div>
+      
+      <div class="step-cell passed">
+        <span>*</span>&nbsp;<span>def url_base =  &quot;https://jsonplaceholder.typicode.com/&quot;</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.3">20:39:09.007 karate.env system property was: null 
+</div>   
+
+  
+
+</div>
+</div>
+          <div data-parent="[5:35]bg"><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.4">
+      <div class="step-ref bg-step">4</div>
+      
+      <div class="step-cell passed">
+        <span>*</span>&nbsp;<span>def post_request = {&quot;userId&quot;:1,&quot;title&quot;:&quot;foo&quot;,&quot;body&quot;:&quot;bar&quot;}</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.36">
+      <div class="step-ref passed">36</div>
+      
+      <div class="step-cell passed">
+        <span>Given</span>&nbsp;<span>url url_base</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.37">
+      <div class="step-ref passed">37</div>
+      
+      <div class="step-cell passed">
+        <span>And</span>&nbsp;<span>path &quot;/users&quot;</span>
+      </div>
+    </div>
+    <div class="time-cell passed">1</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.38">
+      <div class="step-ref passed">38</div>
+      
+      <div class="step-cell passed">
+        <span>When</span>&nbsp;<span>method get</span>
+      </div>
+    </div>
+    <div class="time-cell passed">63</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.38">20:39:09.011 request:
+1 &gt; GET https://jsonplaceholder.typicode.com/users
+1 &gt; Host: jsonplaceholder.typicode.com
+1 &gt; Connection: Keep-Alive
+1 &gt; User-Agent: Apache-HttpClient/4.5.13 (Java/11.0.17)
+1 &gt; Accept-Encoding: gzip,deflate
+
+
+20:39:09.071 response time in milliseconds: 57
+1 &lt; 200
+1 &lt; Date: Tue, 06 Dec 2022 23:39:08 GMT
+1 &lt; Content-Type: application/json; charset=utf-8
+1 &lt; Transfer-Encoding: chunked
+1 &lt; Connection: keep-alive
+1 &lt; X-Powered-By: Express
+1 &lt; X-Ratelimit-Limit: 1000
+1 &lt; X-Ratelimit-Remaining: 998
+1 &lt; X-Ratelimit-Reset: 1670251159
+1 &lt; Vary: Origin, Accept-Encoding
+1 &lt; Access-Control-Allow-Credentials: true
+1 &lt; Cache-Control: max-age=43200
+1 &lt; Pragma: no-cache
+1 &lt; Expires: -1
+1 &lt; X-Content-Type-Options: nosniff
+1 &lt; Etag: W/&quot;160d-1eMSsxeJRfnVLRBmYJSbCiJZ1qQ&quot;
+1 &lt; Via: 1.1 vegur
+1 &lt; CF-Cache-Status: HIT
+1 &lt; Age: 2948
+1 &lt; Server-Timing: cf-q-config;dur=6.0000002122251e-06
+1 &lt; Report-To: {&quot;endpoints&quot;:[{&quot;url&quot;:&quot;https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FX9rN776%2F1AkD%2B%2FNrXRWyLwDJ8HjtYA767t18Tde8ktoiQnpTWZI6AS4VtUN2WrVDPj%2B9Xk%2BYtN3w07ULvEt7oP0yblVuFAhH7PuTkp7H0QB0jGGutmOSTu%2FkqDv4YD0E8oBpI4YxYkNZ2e3eKTL&quot;}],&quot;group&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+1 &lt; NEL: {&quot;success_fraction&quot;:0,&quot;report_to&quot;:&quot;cf-nel&quot;,&quot;max_age&quot;:604800}
+1 &lt; Server: cloudflare
+1 &lt; CF-RAY: 7758dbf10aef1b2a-GRU
+1 &lt; alt-svc: h3=&quot;:443&quot;; ma=86400, h3-29=&quot;:443&quot;; ma=86400
+[{&quot;website&quot;:&quot;hildegard.org&quot;,&quot;address&quot;:{&quot;zipcode&quot;:&quot;92998-3874&quot;,&quot;geo&quot;:{&quot;lng&quot;:&quot;81.1496&quot;,&quot;lat&quot;:&quot;-37.3159&quot;},&quot;suite&quot;:&quot;Apt. 556&quot;,&quot;city&quot;:&quot;Gwenborough&quot;,&quot;street&quot;:&quot;Kulas Light&quot;},&quot;phone&quot;:&quot;1-770-736-8031 x56442&quot;,&quot;name&quot;:&quot;Leanne Graham&quot;,&quot;company&quot;:{&quot;bs&quot;:&quot;harness real-time e-markets&quot;,&quot;catchPhrase&quot;:&quot;Multi-layered client-server neural-net&quot;,&quot;name&quot;:&quot;Romaguera-Crona&quot;},&quot;id&quot;:1,&quot;email&quot;:&quot;Sincere@april.biz&quot;,&quot;username&quot;:&quot;Bret&quot;},{&quot;website&quot;:&quot;anastasia.net&quot;,&quot;address&quot;:{&quot;zipcode&quot;:&quot;90566-7771&quot;,&quot;geo&quot;:{&quot;lng&quot;:&quot;-34.4618&quot;,&quot;lat&quot;:&quot;-43.9509&quot;},&quot;suite&quot;:&quot;Suite 879&quot;,&quot;city&quot;:&quot;Wisokyburgh&quot;,&quot;street&quot;:&quot;Victor Plains&quot;},&quot;phone&quot;:&quot;010-692-6593 x09125&quot;,&quot;name&quot;:&quot;Ervin Howell&quot;,&quot;company&quot;:{&quot;bs&quot;:&quot;synergize scalable supply-chains&quot;,&quot;catchPhrase&quot;:&quot;Proactive didactic contingency&quot;,&quot;name&quot;:&quot;Deckow-Crist&quot;},&quot;id&quot;:2,&quot;email&quot;:&quot;Shanna@melissa.tv&quot;,&quot;username&quot;:&quot;Antonette&quot;},{&quot;website&quot;:&quot;ramiro.info&quot;,&quot;address&quot;:{&quot;zipcode&quot;:&quot;59590-4157&quot;,&quot;geo&quot;:{&quot;lng&quot;:&quot;-47.0653&quot;,&quot;lat&quot;:&quot;-68.6102&quot;},&quot;suite&quot;:&quot;Suite 847&quot;,&quot;city&quot;:&quot;McKenziehaven&quot;,&quot;street&quot;:&quot;Douglas Extension&quot;},&quot;phone&quot;:&quot;1-463-123-4447&quot;,&quot;name&quot;:&quot;Clementine Bauch&quot;,&quot;company&quot;:{&quot;bs&quot;:&quot;e-enable strategic applications&quot;,&quot;catchPhrase&quot;:&quot;Face to face bifurcated interface&quot;,&quot;name&quot;:&quot;Romaguera-Jacobson&quot;},&quot;id&quot;:3,&quot;email&quot;:&quot;Nathan@yesenia.net&quot;,&quot;username&quot;:&quot;Samantha&quot;},{&quot;website&quot;:&quot;kale.biz&quot;,&quot;address&quot;:{&quot;zipcode&quot;:&quot;53919-4257&quot;,&quot;geo&quot;:{&quot;lng&quot;:&quot;-164.2990&quot;,&quot;lat&quot;:&quot;29.4572&quot;},&quot;suite&quot;:&quot;Apt. 692&quot;,&quot;city&quot;:&quot;South Elvis&quot;,&quot;street&quot;:&quot;Hoeger Mall&quot;},&quot;phone&quot;:&quot;493-170-9623 x156&quot;,&quot;name&quot;:&quot;Patricia Lebsack&quot;,&quot;company&quot;:{&quot;bs&quot;:&quot;transition cutting-edge web services&quot;,&quot;catchPhrase&quot;:&quot;Multi-tiered zero tolerance productivity&quot;,&quot;name&quot;:&quot;Robel-Corkery&quot;},&quot;id&quot;:4,&quot;email&quot;:&quot;Julianne.OConner@kory.org&quot;,&quot;username&quot;:&quot;Karianne&quot;},{&quot;website&quot;:&quot;demarco.info&quot;,&quot;address&quot;:{&quot;zipcode&quot;:&quot;33263&quot;,&quot;geo&quot;:{&quot;lng&quot;:&quot;62.5342&quot;,&quot;lat&quot;:&quot;-31.8129&quot;},&quot;suite&quot;:&quot;Suite 351&quot;,&quot;city&quot;:&quot;Roscoeview&quot;,&quot;street&quot;:&quot;Skiles Walks&quot;},&quot;phone&quot;:&quot;(254)954-1289&quot;,&quot;name&quot;:&quot;Chelsey Dietrich&quot;,&quot;company&quot;:{&quot;bs&quot;:&quot;revolutionize end-to-end systems&quot;,&quot;catchPhrase&quot;:&quot;User-centric fault-tolerant solution&quot;,&quot;name&quot;:&quot;Keebler LLC&quot;},&quot;id&quot;:5,&quot;email&quot;:&quot;Lucio_Hettinger@annie.ca&quot;,&quot;username&quot;:&quot;Kamren&quot;},{&quot;website&quot;:&quot;ola.org&quot;,&quot;address&quot;:{&quot;zipcode&quot;:&quot;23505-1337&quot;,&quot;geo&quot;:{&quot;lng&quot;:&quot;71.7478&quot;,&quot;lat&quot;:&quot;-71.4197&quot;},&quot;suite&quot;:&quot;Apt. 950&quot;,&quot;city&quot;:&quot;South Christy&quot;,&quot;street&quot;:&quot;Norberto Crossing&quot;},&quot;phone&quot;:&quot;1-477-935-8478 x6430&quot;,&quot;name&quot;:&quot;Mrs. Dennis Schulist&quot;,&quot;company&quot;:{&quot;bs&quot;:&quot;e-enable innovative applications&quot;,&quot;catchPhrase&quot;:&quot;Synchronised bottom-line interface&quot;,&quot;name&quot;:&quot;Considine-Lockman&quot;},&quot;id&quot;:6,&quot;email&quot;:&quot;Karley_Dach@jasper.info&quot;,&quot;username&quot;:&quot;Leopoldo_Corkery&quot;},{&quot;website&quot;:&quot;elvis.io&quot;,&quot;address&quot;:{&quot;zipcode&quot;:&quot;58804-1099&quot;,&quot;geo&quot;:{&quot;lng&quot;:&quot;21.8984&quot;,&quot;lat&quot;:&quot;24.8918&quot;},&quot;suite&quot;:&quot;Suite 280&quot;,&quot;city&quot;:&quot;Howemouth&quot;,&quot;street&quot;:&quot;Rex Trail&quot;},&quot;phone&quot;:&quot;210.067.6132&quot;,&quot;name&quot;:&quot;Kurtis Weissnat&quot;,&quot;company&quot;:{&quot;bs&quot;:&quot;generate enterprise e-tailers&quot;,&quot;catchPhrase&quot;:&quot;Configurable multimedia task-force&quot;,&quot;name&quot;:&quot;Johns Group&quot;},&quot;id&quot;:7,&quot;email&quot;:&quot;Telly.Hoeger@billy.biz&quot;,&quot;username&quot;:&quot;Elwyn.Skiles&quot;},{&quot;website&quot;:&quot;jacynthe.com&quot;,&quot;address&quot;:{&quot;zipcode&quot;:&quot;45169&quot;,&quot;geo&quot;:{&quot;lng&quot;:&quot;-120.7677&quot;,&quot;lat&quot;:&quot;-14.3990&quot;},&quot;suite&quot;:&quot;Suite 729&quot;,&quot;city&quot;:&quot;Aliyaview&quot;,&quot;street&quot;:&quot;Ellsworth Summit&quot;},&quot;phone&quot;:&quot;586.493.6943 x140&quot;,&quot;name&quot;:&quot;Nicholas Runolfsdottir V&quot;,&quot;company&quot;:{&quot;bs&quot;:&quot;e-enable extensible e-tailers&quot;,&quot;catchPhrase&quot;:&quot;Implemented secondary concept&quot;,&quot;name&quot;:&quot;Abernathy Group&quot;},&quot;id&quot;:8,&quot;email&quot;:&quot;Sherwood@rosamond.me&quot;,&quot;username&quot;:&quot;Maxime_Nienow&quot;},{&quot;website&quot;:&quot;conrad.com&quot;,&quot;address&quot;:{&quot;zipcode&quot;:&quot;76495-3109&quot;,&quot;geo&quot;:{&quot;lng&quot;:&quot;-168.8889&quot;,&quot;lat&quot;:&quot;24.6463&quot;},&quot;suite&quot;:&quot;Suite 449&quot;,&quot;city&quot;:&quot;Bartholomebury&quot;,&quot;street&quot;:&quot;Dayna Park&quot;},&quot;phone&quot;:&quot;(775)976-6794 x41206&quot;,&quot;name&quot;:&quot;Glenna Reichert&quot;,&quot;company&quot;:{&quot;bs&quot;:&quot;aggregate real-time technologies&quot;,&quot;catchPhrase&quot;:&quot;Switchable contextually-based project&quot;,&quot;name&quot;:&quot;Yost and Sons&quot;},&quot;id&quot;:9,&quot;email&quot;:&quot;Chaim_McDermott@dana.io&quot;,&quot;username&quot;:&quot;Delphine&quot;},{&quot;website&quot;:&quot;ambrose.net&quot;,&quot;address&quot;:{&quot;zipcode&quot;:&quot;31428-2261&quot;,&quot;geo&quot;:{&quot;lng&quot;:&quot;57.2232&quot;,&quot;lat&quot;:&quot;-38.2386&quot;},&quot;suite&quot;:&quot;Suite 198&quot;,&quot;city&quot;:&quot;Lebsackbury&quot;,&quot;street&quot;:&quot;Kattie Turnpike&quot;},&quot;phone&quot;:&quot;024-648-3804&quot;,&quot;name&quot;:&quot;Clementina DuBuque&quot;,&quot;company&quot;:{&quot;bs&quot;:&quot;target end-to-end models&quot;,&quot;catchPhrase&quot;:&quot;Centralized empowering task-force&quot;,&quot;name&quot;:&quot;Hoeger LLC&quot;},&quot;id&quot;:10,&quot;email&quot;:&quot;Rey.Padberg@karina.biz&quot;,&quot;username&quot;:&quot;Moriah.Stanton&quot;}]
+</div>   
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.39">
+      <div class="step-ref passed">39</div>
+      
+      <div class="step-cell passed">
+        <span>Then</span>&nbsp;<span>status 200</span>
+      </div>
+    </div>
+    <div class="time-cell passed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.40">
+      <div class="step-ref passed">40</div>
+      
+      <div class="step-cell passed">
+        <span>And</span>&nbsp;<span>match $.[0].website == &quot;hildegard.org&quot;</span>
+      </div>
+    </div>
+    <div class="time-cell passed">1</div>
+  </div>
+
+   
+  
+  
+
+  
+
+     
+
+  
+
+</div>
+</div>
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.41">
+      <div class="step-ref passed">41</div>
+      
+      <div class="step-cell passed">
+        <span>And</span>&nbsp;<span>print response</span>
+      </div>
+    </div>
+    <div class="time-cell passed">4</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.41">20:39:09.078 [print] [
+  {
+    &quot;website&quot;: &quot;hildegard.org&quot;,
+    &quot;address&quot;: {
+      &quot;zipcode&quot;: &quot;92998-3874&quot;,
+      &quot;geo&quot;: {
+        &quot;lng&quot;: &quot;81.1496&quot;,
+        &quot;lat&quot;: &quot;-37.3159&quot;
+      },
+      &quot;suite&quot;: &quot;Apt. 556&quot;,
+      &quot;city&quot;: &quot;Gwenborough&quot;,
+      &quot;street&quot;: &quot;Kulas Light&quot;
+    },
+    &quot;phone&quot;: &quot;1-770-736-8031 x56442&quot;,
+    &quot;name&quot;: &quot;Leanne Graham&quot;,
+    &quot;company&quot;: {
+      &quot;bs&quot;: &quot;harness real-time e-markets&quot;,
+      &quot;catchPhrase&quot;: &quot;Multi-layered client-server neural-net&quot;,
+      &quot;name&quot;: &quot;Romaguera-Crona&quot;
+    },
+    &quot;id&quot;: 1,
+    &quot;email&quot;: &quot;Sincere@april.biz&quot;,
+    &quot;username&quot;: &quot;Bret&quot;
+  },
+  {
+    &quot;website&quot;: &quot;anastasia.net&quot;,
+    &quot;address&quot;: {
+      &quot;zipcode&quot;: &quot;90566-7771&quot;,
+      &quot;geo&quot;: {
+        &quot;lng&quot;: &quot;-34.4618&quot;,
+        &quot;lat&quot;: &quot;-43.9509&quot;
+      },
+      &quot;suite&quot;: &quot;Suite 879&quot;,
+      &quot;city&quot;: &quot;Wisokyburgh&quot;,
+      &quot;street&quot;: &quot;Victor Plains&quot;
+    },
+    &quot;phone&quot;: &quot;010-692-6593 x09125&quot;,
+    &quot;name&quot;: &quot;Ervin Howell&quot;,
+    &quot;company&quot;: {
+      &quot;bs&quot;: &quot;synergize scalable supply-chains&quot;,
+      &quot;catchPhrase&quot;: &quot;Proactive didactic contingency&quot;,
+      &quot;name&quot;: &quot;Deckow-Crist&quot;
+    },
+    &quot;id&quot;: 2,
+    &quot;email&quot;: &quot;Shanna@melissa.tv&quot;,
+    &quot;username&quot;: &quot;Antonette&quot;
+  },
+  {
+    &quot;website&quot;: &quot;ramiro.info&quot;,
+    &quot;address&quot;: {
+      &quot;zipcode&quot;: &quot;59590-4157&quot;,
+      &quot;geo&quot;: {
+        &quot;lng&quot;: &quot;-47.0653&quot;,
+        &quot;lat&quot;: &quot;-68.6102&quot;
+      },
+      &quot;suite&quot;: &quot;Suite 847&quot;,
+      &quot;city&quot;: &quot;McKenziehaven&quot;,
+      &quot;street&quot;: &quot;Douglas Extension&quot;
+    },
+    &quot;phone&quot;: &quot;1-463-123-4447&quot;,
+    &quot;name&quot;: &quot;Clementine Bauch&quot;,
+    &quot;company&quot;: {
+      &quot;bs&quot;: &quot;e-enable strategic applications&quot;,
+      &quot;catchPhrase&quot;: &quot;Face to face bifurcated interface&quot;,
+      &quot;name&quot;: &quot;Romaguera-Jacobson&quot;
+    },
+    &quot;id&quot;: 3,
+    &quot;email&quot;: &quot;Nathan@yesenia.net&quot;,
+    &quot;username&quot;: &quot;Samantha&quot;
+  },
+  {
+    &quot;website&quot;: &quot;kale.biz&quot;,
+    &quot;address&quot;: {
+      &quot;zipcode&quot;: &quot;53919-4257&quot;,
+      &quot;geo&quot;: {
+        &quot;lng&quot;: &quot;-164.2990&quot;,
+        &quot;lat&quot;: &quot;29.4572&quot;
+      },
+      &quot;suite&quot;: &quot;Apt. 692&quot;,
+      &quot;city&quot;: &quot;South Elvis&quot;,
+      &quot;street&quot;: &quot;Hoeger Mall&quot;
+    },
+    &quot;phone&quot;: &quot;493-170-9623 x156&quot;,
+    &quot;name&quot;: &quot;Patricia Lebsack&quot;,
+    &quot;company&quot;: {
+      &quot;bs&quot;: &quot;transition cutting-edge web services&quot;,
+      &quot;catchPhrase&quot;: &quot;Multi-tiered zero tolerance productivity&quot;,
+      &quot;name&quot;: &quot;Robel-Corkery&quot;
+    },
+    &quot;id&quot;: 4,
+    &quot;email&quot;: &quot;Julianne.OConner@kory.org&quot;,
+    &quot;username&quot;: &quot;Karianne&quot;
+  },
+  {
+    &quot;website&quot;: &quot;demarco.info&quot;,
+    &quot;address&quot;: {
+      &quot;zipcode&quot;: &quot;33263&quot;,
+      &quot;geo&quot;: {
+        &quot;lng&quot;: &quot;62.5342&quot;,
+        &quot;lat&quot;: &quot;-31.8129&quot;
+      },
+      &quot;suite&quot;: &quot;Suite 351&quot;,
+      &quot;city&quot;: &quot;Roscoeview&quot;,
+      &quot;street&quot;: &quot;Skiles Walks&quot;
+    },
+    &quot;phone&quot;: &quot;(254)954-1289&quot;,
+    &quot;name&quot;: &quot;Chelsey Dietrich&quot;,
+    &quot;company&quot;: {
+      &quot;bs&quot;: &quot;revolutionize end-to-end systems&quot;,
+      &quot;catchPhrase&quot;: &quot;User-centric fault-tolerant solution&quot;,
+      &quot;name&quot;: &quot;Keebler LLC&quot;
+    },
+    &quot;id&quot;: 5,
+    &quot;email&quot;: &quot;Lucio_Hettinger@annie.ca&quot;,
+    &quot;username&quot;: &quot;Kamren&quot;
+  },
+  {
+    &quot;website&quot;: &quot;ola.org&quot;,
+    &quot;address&quot;: {
+      &quot;zipcode&quot;: &quot;23505-1337&quot;,
+      &quot;geo&quot;: {
+        &quot;lng&quot;: &quot;71.7478&quot;,
+        &quot;lat&quot;: &quot;-71.4197&quot;
+      },
+      &quot;suite&quot;: &quot;Apt. 950&quot;,
+      &quot;city&quot;: &quot;South Christy&quot;,
+      &quot;street&quot;: &quot;Norberto Crossing&quot;
+    },
+    &quot;phone&quot;: &quot;1-477-935-8478 x6430&quot;,
+    &quot;name&quot;: &quot;Mrs. Dennis Schulist&quot;,
+    &quot;company&quot;: {
+      &quot;bs&quot;: &quot;e-enable innovative applications&quot;,
+      &quot;catchPhrase&quot;: &quot;Synchronised bottom-line interface&quot;,
+      &quot;name&quot;: &quot;Considine-Lockman&quot;
+    },
+    &quot;id&quot;: 6,
+    &quot;email&quot;: &quot;Karley_Dach@jasper.info&quot;,
+    &quot;username&quot;: &quot;Leopoldo_Corkery&quot;
+  },
+  {
+    &quot;website&quot;: &quot;elvis.io&quot;,
+    &quot;address&quot;: {
+      &quot;zipcode&quot;: &quot;58804-1099&quot;,
+      &quot;geo&quot;: {
+        &quot;lng&quot;: &quot;21.8984&quot;,
+        &quot;lat&quot;: &quot;24.8918&quot;
+      },
+      &quot;suite&quot;: &quot;Suite 280&quot;,
+      &quot;city&quot;: &quot;Howemouth&quot;,
+      &quot;street&quot;: &quot;Rex Trail&quot;
+    },
+    &quot;phone&quot;: &quot;210.067.6132&quot;,
+    &quot;name&quot;: &quot;Kurtis Weissnat&quot;,
+    &quot;company&quot;: {
+      &quot;bs&quot;: &quot;generate enterprise e-tailers&quot;,
+      &quot;catchPhrase&quot;: &quot;Configurable multimedia task-force&quot;,
+      &quot;name&quot;: &quot;Johns Group&quot;
+    },
+    &quot;id&quot;: 7,
+    &quot;email&quot;: &quot;Telly.Hoeger@billy.biz&quot;,
+    &quot;username&quot;: &quot;Elwyn.Skiles&quot;
+  },
+  {
+    &quot;website&quot;: &quot;jacynthe.com&quot;,
+    &quot;address&quot;: {
+      &quot;zipcode&quot;: &quot;45169&quot;,
+      &quot;geo&quot;: {
+        &quot;lng&quot;: &quot;-120.7677&quot;,
+        &quot;lat&quot;: &quot;-14.3990&quot;
+      },
+      &quot;suite&quot;: &quot;Suite 729&quot;,
+      &quot;city&quot;: &quot;Aliyaview&quot;,
+      &quot;street&quot;: &quot;Ellsworth Summit&quot;
+    },
+    &quot;phone&quot;: &quot;586.493.6943 x140&quot;,
+    &quot;name&quot;: &quot;Nicholas Runolfsdottir V&quot;,
+    &quot;company&quot;: {
+      &quot;bs&quot;: &quot;e-enable extensible e-tailers&quot;,
+      &quot;catchPhrase&quot;: &quot;Implemented secondary concept&quot;,
+      &quot;name&quot;: &quot;Abernathy Group&quot;
+    },
+    &quot;id&quot;: 8,
+    &quot;email&quot;: &quot;Sherwood@rosamond.me&quot;,
+    &quot;username&quot;: &quot;Maxime_Nienow&quot;
+  },
+  {
+    &quot;website&quot;: &quot;conrad.com&quot;,
+    &quot;address&quot;: {
+      &quot;zipcode&quot;: &quot;76495-3109&quot;,
+      &quot;geo&quot;: {
+        &quot;lng&quot;: &quot;-168.8889&quot;,
+        &quot;lat&quot;: &quot;24.6463&quot;
+      },
+      &quot;suite&quot;: &quot;Suite 449&quot;,
+      &quot;city&quot;: &quot;Bartholomebury&quot;,
+      &quot;street&quot;: &quot;Dayna Park&quot;
+    },
+    &quot;phone&quot;: &quot;(775)976-6794 x41206&quot;,
+    &quot;name&quot;: &quot;Glenna Reichert&quot;,
+    &quot;company&quot;: {
+      &quot;bs&quot;: &quot;aggregate real-time technologies&quot;,
+      &quot;catchPhrase&quot;: &quot;Switchable contextually-based project&quot;,
+      &quot;name&quot;: &quot;Yost and Sons&quot;
+    },
+    &quot;id&quot;: 9,
+    &quot;email&quot;: &quot;Chaim_McDermott@dana.io&quot;,
+    &quot;username&quot;: &quot;Delphine&quot;
+  },
+  {
+    &quot;website&quot;: &quot;ambrose.net&quot;,
+    &quot;address&quot;: {
+      &quot;zipcode&quot;: &quot;31428-2261&quot;,
+      &quot;geo&quot;: {
+        &quot;lng&quot;: &quot;57.2232&quot;,
+        &quot;lat&quot;: &quot;-38.2386&quot;
+      },
+      &quot;suite&quot;: &quot;Suite 198&quot;,
+      &quot;city&quot;: &quot;Lebsackbury&quot;,
+      &quot;street&quot;: &quot;Kattie Turnpike&quot;
+    },
+    &quot;phone&quot;: &quot;024-648-3804&quot;,
+    &quot;name&quot;: &quot;Clementina DuBuque&quot;,
+    &quot;company&quot;: {
+      &quot;bs&quot;: &quot;target end-to-end models&quot;,
+      &quot;catchPhrase&quot;: &quot;Centralized empowering task-force&quot;,
+      &quot;name&quot;: &quot;Hoeger LLC&quot;
+    },
+    &quot;id&quot;: 10,
+    &quot;email&quot;: &quot;Rey.Padberg@karina.biz&quot;,
+    &quot;username&quot;: &quot;Moriah.Stanton&quot;
+  }
+]
+ 
+</div>   
+
+  
+
+</div>
+</div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
